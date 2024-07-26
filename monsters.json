@@ -1,0 +1,2782 @@
+[
+  {
+    "nama_khodam": "Macan Putih",
+    "tipe_khodam": "Jin",
+    "asal": "Gunung"
+  },
+  {
+    "nama_khodam": "Eyang Semar",
+    "tipe_khodam": "Dewa",
+    "asal": "Wayang"
+  },
+  {
+    "nama_khodam": "Leuweung Sari",
+    "tipe_khodam": "Jin",
+    "asal": "Hutan"
+  },
+  {
+    "nama_khodam": "Batara Kala",
+    "tipe_khodam": "Dewa",
+    "asal": "Hindu"
+  },
+  {
+    "nama_khodam": "Kyai Semar",
+    "tipe_khodam": "Leluhur",
+    "asal": "Jawa"
+  },
+  {
+    "nama_khodam": "Eyang Kemuning Bumi",
+    "tipe_khodam": "Dewa",
+    "asal": "Hutan"
+  },
+  {
+    "nama_khodam": "Kuda Agung",
+    "tipe_khodam": "Dewa",
+    "asal": "Langit"
+  },
+  {
+    "nama_khodam": "Burung Hantu Kusuma",
+    "tipe_khodam": "Leluhur",
+    "asal": "Bumi"
+  },
+  {
+    "nama_khodam": "Kanjeng Bambu Bumi",
+    "tipe_khodam": "Leluhur",
+    "asal": "Langit"
+  },
+  {
+    "nama_khodam": "Garuda Kusuma",
+    "tipe_khodam": "Dewa",
+    "asal": "Langit"
+  },
+  {
+    "nama_khodam": "Sakti Macan Melati",
+    "tipe_khodam": "Dewa",
+    "asal": "Langit"
+  },
+  {
+    "nama_khodam": "Eyang Melati Api",
+    "tipe_khodam": "Dewa",
+    "asal": "Laut"
+  },
+  {
+    "nama_khodam": "Agung Kuda Melati",
+    "tipe_khodam": "Leluhur",
+    "asal": "Hutan"
+  },
+  {
+    "nama_khodam": "Segara Burung Hantu Padma",
+    "tipe_khodam": "Jin",
+    "asal": "Hutan"
+  },
+  {
+    "nama_khodam": "Kanjeng Bambu Api",
+    "tipe_khodam": "Leluhur",
+    "asal": "Hutan"
+  },
+  {
+    "nama_khodam": "Kanjeng Padma Air",
+    "tipe_khodam": "Leluhur",
+    "asal": "Gunung"
+  },
+  {
+    "nama_khodam": "Kyai Padma Angin",
+    "tipe_khodam": "Leluhur",
+    "asal": "Bumi"
+  },
+  {
+    "nama_khodam": "Nyi Melati Bumi",
+    "tipe_khodam": "Jin",
+    "asal": "Gunung"
+  },
+  {
+    "nama_khodam": "Burung Hantu Agung",
+    "tipe_khodam": "Jin",
+    "asal": "Bumi"
+  },
+  {
+    "nama_khodam": "Macan Segara",
+    "tipe_khodam": "Dewa",
+    "asal": "Hutan"
+  },
+  {
+    "nama_khodam": "Kuda Segara",
+    "tipe_khodam": "Jin",
+    "asal": "Hutan"
+  },
+  {
+    "nama_khodam": "Eyang Jati Bumi",
+    "tipe_khodam": "Dewa",
+    "asal": "Gunung"
+  },
+  {
+    "nama_khodam": "Wijaya Macan Kemuning",
+    "tipe_khodam": "Jin",
+    "asal": "Langit"
+  },
+  {
+    "nama_khodam": "Wijaya Burung Hantu Padma",
+    "tipe_khodam": "Dewa",
+    "asal": "Gunung"
+  },
+  {
+    "nama_khodam": "Eyang Melati Angin",
+    "tipe_khodam": "Dewa",
+    "asal": "Langit"
+  },
+  {
+    "nama_khodam": "Kanjeng Melati Bumi",
+    "tipe_khodam": "Jin",
+    "asal": "Langit"
+  },
+  {
+    "nama_khodam": "Kusuma Kuda Bambu",
+    "tipe_khodam": "Leluhur",
+    "asal": "Hutan"
+  },
+  {
+    "nama_khodam": "Kyai Angin Sakti",
+    "tipe_khodam": "Leluhur",
+    "asal": "Langit"
+  },
+  {
+    "nama_khodam": "Nyi Kemuning Segara",
+    "tipe_khodam": "Dewa",
+    "asal": "Laut"
+  },
+  {
+    "nama_khodam": "Agung Jati Api",
+    "tipe_khodam": "Dewa",
+    "asal": "Gunung"
+  },
+  {
+    "nama_khodam": "Sakti Garuda Bumi",
+    "tipe_khodam": "Jin",
+    "asal": "Bumi"
+  },
+  {
+    "nama_khodam": "Eyang Kuda Angin",
+    "tipe_khodam": "Leluhur",
+    "asal": "Langit"
+  },
+  {
+    "nama_khodam": "Kanjeng Macan Air",
+    "tipe_khodam": "Leluhur",
+    "asal": "Laut"
+  },
+  {
+    "nama_khodam": "Kusuma Burung Hantu Api",
+    "tipe_khodam": "Jin",
+    "asal": "Gunung"
+  },
+  {
+    "nama_khodam": "Segara Bambu Bumi",
+    "tipe_khodam": "Dewa",
+    "asal": "Bumi"
+  },
+  {
+    "nama_khodam": "Wijaya Kuda Angin",
+    "tipe_khodam": "Dewa",
+    "asal": "Langit"
+  },
+  {
+    "nama_khodam": "Nyi Jati Air",
+    "tipe_khodam": "Jin",
+    "asal": "Laut"
+  },
+  {
+    "nama_khodam": "Agung Burung Hantu Bumi",
+    "tipe_khodam": "Leluhur",
+    "asal": "Bumi"
+  },
+  {
+    "nama_khodam": "Sakti Bambu Angin",
+    "tipe_khodam": "Dewa",
+    "asal": "Langit"
+  },
+  {
+    "nama_khodam": "Eyang Macan Air",
+    "tipe_khodam": "Leluhur",
+    "asal": "Laut"
+  },
+  {
+    "nama_khodam": "Kanjeng Kuda Api",
+    "tipe_khodam": "Jin",
+    "asal": "Gunung"
+  },
+  {
+    "nama_khodam": "Kusuma Jati Bumi",
+    "tipe_khodam": "Dewa",
+    "asal": "Bumi"
+  },
+  {
+    "nama_khodam": "Segara Melati Angin",
+    "tipe_khodam": "Jin",
+    "asal": "Langit"
+  },
+  {
+    "nama_khodam": "Wijaya Bambu Air",
+    "tipe_khodam": "Leluhur",
+    "asal": "Laut"
+  },
+  {
+    "nama_khodam": "Nyi Burung Hantu Api",
+    "tipe_khodam": "Dewa",
+    "asal": "Gunung"
+  },
+  {
+    "nama_khodam": "Agung Melati Bumi",
+    "tipe_khodam": "Jin",
+    "asal": "Bumi"
+  },
+  {
+    "nama_khodam": "Sakti Jati Angin",
+    "tipe_khodam": "Dewa",
+    "asal": "Langit"
+  },
+  {
+    "nama_khodam": "Eyang Kuda Air",
+    "tipe_khodam": "Leluhur",
+    "asal": "Laut"
+  },
+  {
+    "nama_khodam": "Kanjeng Burung Hantu Api",
+    "tipe_khodam": "Jin",
+    "asal": "Gunung"
+  },
+  {
+    "nama_khodam": "Kusuma Macan Bumi",
+    "tipe_khodam": "Dewa",
+    "asal": "Bumi"
+  },
+  {
+    "nama_khodam": "Segara Kemuning Angin",
+    "tipe_khodam": "Jin",
+    "asal": "Langit"
+  },
+  {
+    "nama_khodam": "Wijaya Melati Air",
+    "tipe_khodam": "Leluhur",
+    "asal": "Laut"
+  },
+  {
+    "nama_khodam": "Nyi Bambu Api",
+    "tipe_khodam": "Dewa",
+    "asal": "Gunung"
+  },
+  {
+    "nama_khodam": "Agung Kemuning Bumi",
+    "tipe_khodam": "Jin",
+    "asal": "Bumi"
+  },
+  {
+    "nama_khodam": "Sakti Kuda Angin",
+    "tipe_khodam": "Dewa",
+    "asal": "Langit"
+  },
+  {
+    "nama_khodam": "Eyang Burung Hantu Air",
+    "tipe_khodam": "Leluhur",
+    "asal": "Laut"
+  },
+  {
+    "nama_khodam": "Kanjeng Jati Api",
+    "tipe_khodam": "Jin",
+    "asal": "Gunung"
+  },
+  {
+    "nama_khodam": "Kusuma Melati Bumi",
+    "tipe_khodam": "Dewa",
+    "asal": "Bumi"
+  },
+  {
+    "nama_khodam": "Segara Macan Angin",
+    "tipe_khodam": "Jin",
+    "asal": "Langit"
+  },
+  {
+    "nama_khodam": "Wijaya Kemuning Air",
+    "tipe_khodam": "Leluhur",
+    "asal": "Laut"
+  },
+  {
+    "nama_khodam": "Nyi Angin Api",
+    "tipe_khodam": "Dewa",
+    "asal": "Gunung"
+  },
+  {
+    "nama_khodam": "Agung Bambu Bumi",
+    "tipe_khodam": "Jin",
+    "asal": "Bumi"
+  },
+  {
+    "nama_khodam": "Sakti Burung Hantu Angin",
+    "tipe_khodam": "Dewa",
+    "asal": "Langit"
+  },
+  {
+    "nama_khodam": "Eyang Macan Air",
+    "tipe_khodam": "Leluhur",
+    "asal": "Laut"
+  },
+  {
+    "nama_khodam": "Kanjeng Kuda Api",
+    "tipe_khodam": "Jin",
+    "asal": "Gunung"
+  },
+  {
+    "nama_khodam": "Kusuma Jati Bumi",
+    "tipe_khodam": "Dewa",
+    "asal": "Bumi"
+  },
+  {
+    "nama_khodam": "Segara Melati Angin",
+    "tipe_khodam": "Jin",
+    "asal": "Langit"
+  },
+  {
+    "nama_khodam": "Wijaya Bambu Air",
+    "tipe_khodam": "Leluhur",
+    "asal": "Laut"
+  },
+  {
+    "nama_khodam": "Nyi Burung Hantu Api",
+    "tipe_khodam": "Dewa",
+    "asal": "Gunung"
+  },
+  {
+    "nama_khodam": "Kyai Angin Segara",
+    "tipe_khodam": "Leluhur",
+    "asal": "Laut"
+  },
+  {
+    "nama_khodam": "Nyi Kemuning Bumi",
+    "tipe_khodam": "Dewa",
+    "asal": "Bumi"
+  },
+  {
+    "nama_khodam": "Agung Jati Air",
+    "tipe_khodam": "Dewa",
+    "asal": "Laut"
+  },
+  {
+    "nama_khodam": "Sakti Garuda Langit",
+    "tipe_khodam": "Jin",
+    "asal": "Langit"
+  },
+  {
+    "nama_khodam": "Eyang Kuda Api",
+    "tipe_khodam": "Leluhur",
+    "asal": "Gunung"
+  },
+  {
+    "nama_khodam": "Kanjeng Macan Angin",
+    "tipe_khodam": "Leluhur",
+    "asal": "Langit"
+  },
+  {
+    "nama_khodam": "Kusuma Burung Hantu Bumi",
+    "tipe_khodam": "Jin",
+    "asal": "Bumi"
+  },
+  {
+    "nama_khodam": "Segara Bambu Air",
+    "tipe_khodam": "Dewa",
+    "asal": "Laut"
+  },
+  {
+    "nama_khodam": "Wijaya Kuda Langit",
+    "tipe_khodam": "Dewa",
+    "asal": "Langit"
+  },
+  {
+    "nama_khodam": "Nyi Jati Api",
+    "tipe_khodam": "Jin",
+    "asal": "Gunung"
+  },
+  {
+    "nama_khodam": "Agung Burung Hantu Bumi",
+    "tipe_khodam": "Leluhur",
+    "asal": "Bumi"
+  },
+  {
+    "nama_khodam": "Sakti Bambu Angin",
+    "tipe_khodam": "Dewa",
+    "asal": "Langit"
+  },
+  {
+    "nama_khodam": "Eyang Macan Air",
+    "tipe_khodam": "Leluhur",
+    "asal": "Laut"
+  },
+  {
+    "nama_khodam": "Kanjeng Kuda Api",
+    "tipe_khodam": "Jin",
+    "asal": "Gunung"
+  },
+  {
+    "nama_khodam": "Kusuma Jati Bumi",
+    "tipe_khodam": "Dewa",
+    "asal": "Bumi"
+  },
+  {
+    "nama_khodam": "Segara Melati Angin",
+    "tipe_khodam": "Jin",
+    "asal": "Langit"
+  },
+  {
+    "nama_khodam": "Wijaya Bambu Air",
+    "tipe_khodam": "Leluhur",
+    "asal": "Laut"
+  },
+  {
+    "nama_khodam": "Nyi Burung Hantu Api",
+    "tipe_khodam": "Dewa",
+    "asal": "Gunung"
+  },
+  {
+    "nama_khodam": "Agung Melati Bumi",
+    "tipe_khodam": "Jin",
+    "asal": "Bumi"
+  },
+  {
+    "nama_khodam": "Sakti Jati Angin",
+    "tipe_khodam": "Dewa",
+    "asal": "Langit"
+  },
+  {
+    "nama_khodam": "Eyang Kuda Air",
+    "tipe_khodam": "Leluhur",
+    "asal": "Laut"
+  },
+  {
+    "nama_khodam": "Kanjeng Burung Hantu Api",
+    "tipe_khodam": "Jin",
+    "asal": "Gunung"
+  },
+  {
+    "nama_khodam": "Kusuma Macan Bumi",
+    "tipe_khodam": "Dewa",
+    "asal": "Bumi"
+  },
+  {
+    "nama_khodam": "Segara Kemuning Angin",
+    "tipe_khodam": "Jin",
+    "asal": "Langit"
+  },
+  {
+    "nama_khodam": "Wijaya Melati Air",
+    "tipe_khodam": "Leluhur",
+    "asal": "Laut"
+  },
+  {
+    "nama_khodam": "Nyi Bambu Api",
+    "tipe_khodam": "Dewa",
+    "asal": "Gunung"
+  },
+  {
+    "nama_khodam": "Agung Kemuning Bumi",
+    "tipe_khodam": "Jin",
+    "asal": "Bumi"
+  },
+  {
+    "nama_khodam": "Sakti Kuda Angin",
+    "tipe_khodam": "Dewa",
+    "asal": "Langit"
+  },
+  {
+    "nama_khodam": "Eyang Burung Hantu Air",
+    "tipe_khodam": "Leluhur",
+    "asal": "Laut"
+  },
+  {
+    "nama_khodam": "Kanjeng Jati Api",
+    "tipe_khodam": "Jin",
+    "asal": "Gunung"
+  },
+  {
+    "nama_khodam": "Kusuma Melati Bumi",
+    "tipe_khodam": "Dewa",
+    "asal": "Bumi"
+  },
+  {
+    "nama_khodam": "Segara Macan Angin",
+    "tipe_khodam": "Jin",
+    "asal": "Langit"
+  },
+  {
+    "nama_khodam": "Wijaya Kemuning Air",
+    "tipe_khodam": "Leluhur",
+    "asal": "Laut"
+  },
+  {
+    "nama_khodam": "Nyi Angin Api",
+    "tipe_khodam": "Dewa",
+    "asal": "Gunung"
+  },
+  {
+    "nama_khodam": "Agung Bambu Bumi",
+    "tipe_khodam": "Jin",
+    "asal": "Bumi"
+  },
+  {
+    "nama_khodam": "Sakti Burung Hantu Angin",
+    "tipe_khodam": "Dewa",
+    "asal": "Langit"
+  },
+  {
+    "nama_khodam": "Eyang Macan Air",
+    "tipe_khodam": "Leluhur",
+    "asal": "Laut"
+  },
+  {
+    "nama_khodam": "Kanjeng Kuda Api",
+    "tipe_khodam": "Jin",
+    "asal": "Gunung"
+  },
+  {
+    "nama_khodam": "Kusuma Jati Bumi",
+    "tipe_khodam": "Dewa",
+    "asal": "Bumi"
+  },
+  {
+    "nama_khodam": "Segara Melati Angin",
+    "tipe_khodam": "Jin",
+    "asal": "Langit"
+  },
+  {
+    "nama_khodam": "Wijaya Bambu Air",
+    "tipe_khodam": "Leluhur",
+    "asal": "Laut"
+  },
+  {
+    "nama_khodam": "Nyi Burung Hantu Api",
+    "tipe_khodam": "Dewa",
+    "asal": "Gunung"
+  },
+  {
+    "nama_khodam": "Agung Kemuning Bumi",
+    "tipe_khodam": "Jin",
+    "asal": "Bumi"
+  },
+  {
+    "nama_khodam": "Sakti Kuda Angin",
+    "tipe_khodam": "Dewa",
+    "asal": "Langit"
+  },
+  {
+    "nama_khodam": "Eyang Burung Hantu Air",
+    "tipe_khodam": "Leluhur",
+    "asal": "Laut"
+  },
+  {
+    "nama_khodam": "Kanjeng Jati Api",
+    "tipe_khodam": "Jin",
+    "asal": "Gunung"
+  },
+  {
+    "nama_khodam": "Kusuma Melati Bumi",
+    "tipe_khodam": "Dewa",
+    "asal": "Bumi"
+  },
+  {
+    "nama_khodam": "Segara Macan Angin",
+    "tipe_khodam": "Jin",
+    "asal": "Langit"
+  },
+  {
+    "nama_khodam": "Kyai Angin Bumi",
+    "tipe_khodam": "Leluhur",
+    "asal": "Bumi"
+  },
+  {
+    "nama_khodam": "Nyi Kemuning Langit",
+    "tipe_khodam": "Dewa",
+    "asal": "Langit"
+  },
+  {
+    "nama_khodam": "Agung Jati Air",
+    "tipe_khodam": "Dewa",
+    "asal": "Laut"
+  },
+  {
+    "nama_khodam": "Sakti Garuda Api",
+    "tipe_khodam": "Jin",
+    "asal": "Gunung"
+  },
+  {
+    "nama_khodam": "Eyang Kuda Angin",
+    "tipe_khodam": "Leluhur",
+    "asal": "Langit"
+  },
+  {
+    "nama_khodam": "Kanjeng Macan Bumi",
+    "tipe_khodam": "Leluhur",
+    "asal": "Bumi"
+  },
+  {
+    "nama_khodam": "Kusuma Burung Hantu Air",
+    "tipe_khodam": "Jin",
+    "asal": "Laut"
+  },
+  {
+    "nama_khodam": "Segara Bambu Langit",
+    "tipe_khodam": "Dewa",
+    "asal": "Langit"
+  },
+  {
+    "nama_khodam": "Wijaya Kuda Api",
+    "tipe_khodam": "Dewa",
+    "asal": "Gunung"
+  },
+  {
+    "nama_khodam": "Nyi Jati Angin",
+    "tipe_khodam": "Jin",
+    "asal": "Langit"
+  },
+  {
+    "nama_khodam": "Agung Burung Hantu Bumi",
+    "tipe_khodam": "Leluhur",
+    "asal": "Bumi"
+  },
+  {
+    "nama_khodam": "Sakti Bambu Air",
+    "tipe_khodam": "Dewa",
+    "asal": "Laut"
+  },
+  {
+    "nama_khodam": "Eyang Macan Langit",
+    "tipe_khodam": "Leluhur",
+    "asal": "Langit"
+  },
+  {
+    "nama_khodam": "Kanjeng Kuda Api",
+    "tipe_khodam": "Jin",
+    "asal": "Gunung"
+  },
+  {
+    "nama_khodam": "Kusuma Jati Bumi",
+    "tipe_khodam": "Dewa",
+    "asal": "Bumi"
+  },
+  {
+    "nama_khodam": "Segara Melati Angin",
+    "tipe_khodam": "Jin",
+    "asal": "Langit"
+  },
+  {
+    "nama_khodam": "Wijaya Bambu Air",
+    "tipe_khodam": "Leluhur",
+    "asal": "Laut"
+  },
+  {
+    "nama_khodam": "Nyi Burung Hantu Api",
+    "tipe_khodam": "Dewa",
+    "asal": "Gunung"
+  },
+  {
+    "nama_khodam": "Agung Melati Bumi",
+    "tipe_khodam": "Jin",
+    "asal": "Bumi"
+  },
+  {
+    "nama_khodam": "Sakti Jati Angin",
+    "tipe_khodam": "Dewa",
+    "asal": "Langit"
+  },
+  {
+    "nama_khodam": "Eyang Kuda Air",
+    "tipe_khodam": "Leluhur",
+    "asal": "Laut"
+  },
+  {
+    "nama_khodam": "Kanjeng Burung Hantu Api",
+    "tipe_khodam": "Jin",
+    "asal": "Gunung"
+  },
+  {
+    "nama_khodam": "Kusuma Macan Bumi",
+    "tipe_khodam": "Dewa",
+    "asal": "Bumi"
+  },
+  {
+    "nama_khodam": "Segara Kemuning Angin",
+    "tipe_khodam": "Jin",
+    "asal": "Langit"
+  },
+  {
+    "nama_khodam": "Wijaya Melati Air",
+    "tipe_khodam": "Leluhur",
+    "asal": "Laut"
+  },
+  {
+    "nama_khodam": "Nyi Bambu Api",
+    "tipe_khodam": "Dewa",
+    "asal": "Gunung"
+  },
+  {
+    "nama_khodam": "Agung Kemuning Bumi",
+    "tipe_khodam": "Jin",
+    "asal": "Bumi"
+  },
+  {
+    "nama_khodam": "Sakti Kuda Angin",
+    "tipe_khodam": "Dewa",
+    "asal": "Langit"
+  },
+  {
+    "nama_khodam": "Eyang Burung Hantu Air",
+    "tipe_khodam": "Leluhur",
+    "asal": "Laut"
+  },
+  {
+    "nama_khodam": "Kanjeng Jati Api",
+    "tipe_khodam": "Jin",
+    "asal": "Gunung"
+  },
+  {
+    "nama_khodam": "Kusuma Melati Bumi",
+    "tipe_khodam": "Dewa",
+    "asal": "Bumi"
+  },
+  {
+    "nama_khodam": "Segara Macan Angin",
+    "tipe_khodam": "Jin",
+    "asal": "Langit"
+  },
+  {
+    "nama_khodam": "Wijaya Kemuning Air",
+    "tipe_khodam": "Leluhur",
+    "asal": "Laut"
+  },
+  {
+    "nama_khodam": "Nyi Angin Api",
+    "tipe_khodam": "Dewa",
+    "asal": "Gunung"
+  },
+  {
+    "nama_khodam": "Agung Bambu Bumi",
+    "tipe_khodam": "Jin",
+    "asal": "Bumi"
+  },
+  {
+    "nama_khodam": "Sakti Burung Hantu Angin",
+    "tipe_khodam": "Dewa",
+    "asal": "Langit"
+  },
+  {
+    "nama_khodam": "Eyang Macan Air",
+    "tipe_khodam": "Leluhur",
+    "asal": "Laut"
+  },
+  {
+    "nama_khodam": "Kanjeng Kuda Api",
+    "tipe_khodam": "Jin",
+    "asal": "Gunung"
+  },
+  {
+    "nama_khodam": "Kusuma Jati Bumi",
+    "tipe_khodam": "Dewa",
+    "asal": "Bumi"
+  },
+  {
+    "nama_khodam": "Segara Melati Angin",
+    "tipe_khodam": "Jin",
+    "asal": "Langit"
+  },
+  {
+    "nama_khodam": "Wijaya Bambu Air",
+    "tipe_khodam": "Leluhur",
+    "asal": "Laut"
+  },
+  {
+    "nama_khodam": "Nyi Burung Hantu Api",
+    "tipe_khodam": "Dewa",
+    "asal": "Gunung"
+  },
+  {
+    "nama_khodam": "Agung Kemuning Bumi",
+    "tipe_khodam": "Jin",
+    "asal": "Bumi"
+  },
+  {
+    "nama_khodam": "Sakti Kuda Angin",
+    "tipe_khodam": "Dewa",
+    "asal": "Langit"
+  },
+  {
+    "nama_khodam": "Eyang Burung Hantu Air",
+    "tipe_khodam": "Leluhur",
+    "asal": "Laut"
+  },
+  {
+    "nama_khodam": "Kanjeng Jati Api",
+    "tipe_khodam": "Jin",
+    "asal": "Gunung"
+  },
+  {
+    "nama_khodam": "Kusuma Melati Bumi",
+    "tipe_khodam": "Dewa",
+    "asal": "Bumi"
+  },
+  {
+    "nama_khodam": "Segara Macan Angin",
+    "tipe_khodam": "Jin",
+    "asal": "Langit"
+  },
+  {
+    "nama_khodam": "Wijaya Kemuning Air",
+    "tipe_khodam": "Leluhur",
+    "asal": "Laut"
+  },
+  {
+    "nama_khodam": "Nyi Angin Api",
+    "tipe_khodam": "Dewa",
+    "asal": "Gunung"
+  },
+  {
+    "nama_khodam": "Agung Bambu Bumi",
+    "tipe_khodam": "Jin",
+    "asal": "Bumi"
+  },
+  {
+    "nama_khodam": "Sakti Burung Hantu Angin",
+    "tipe_khodam": "Dewa",
+    "asal": "Langit"
+  },
+  {
+    "nama_khodam": "Eyang Macan Air",
+    "tipe_khodam": "Leluhur",
+    "asal": "Laut"
+  },
+  {
+    "nama_khodam": "Kanjeng Kuda Api",
+    "tipe_khodam": "Jin",
+    "asal": "Gunung"
+  },
+  {
+    "nama_khodam": "Kusuma Jati Bumi",
+    "tipe_khodam": "Dewa",
+    "asal": "Bumi"
+  },
+  {
+    "nama_khodam": "Segara Melati Angin",
+    "tipe_khodam": "Jin",
+    "asal": "Langit"
+  },
+  {
+    "nama_khodam": "Wijaya Bambu Air",
+    "tipe_khodam": "Leluhur",
+    "asal": "Laut"
+  },
+  {
+    "nama_khodam": "Nyi Burung Hantu Api",
+    "tipe_khodam": "Dewa",
+    "asal": "Gunung"
+  },
+  {
+    "nama_khodam": "Naga Cahaya Bintang",
+    "tipe_khodam": "Naga",
+    "asal": "Dimensi Astral"
+  },
+  {
+    "nama_khodam": "Peri Hutan Emerald",
+    "tipe_khodam": "Peri",
+    "asal": "Hutan Ajaib"
+  },
+  {
+    "nama_khodam": "Yeti Gunung Salju",
+    "tipe_khodam": "Yeti",
+    "asal": "Gunung Himalaya"
+  },
+  {
+    "nama_khodam": "Makhluk Astral Kegelapan",
+    "tipe_khodam": "Makhluk Astral",
+    "asal": "Dimensi Kegelapan"
+  },
+  {
+    "nama_khodam": "Dewa Api Neraka",
+    "tipe_khodam": "Dewa",
+    "asal": "Neraka"
+  },
+  {
+    "nama_khodam": "Leluhur Kayu Gaib",
+    "tipe_khodam": "Leluhur",
+    "asal": "Hutan Kuno"
+  },
+  {
+    "nama_khodam": "Jin Logam Misterius",
+    "tipe_khodam": "Jin",
+    "asal": "Dunia Bawah Tanah"
+  },
+  {
+    "nama_khodam": "Naga Air Laut Dalam",
+    "tipe_khodam": "Naga",
+    "asal": "Palung Mariana"
+  },
+  {
+    "nama_khodam": "Peri Udara Angin",
+    "tipe_khodam": "Peri",
+    "asal": "Atmosfer"
+  },
+  {
+    "nama_khodam": "Yeti Es Kutub Utara",
+    "tipe_khodam": "Yeti",
+    "asal": "Kutub Utara"
+  },
+  {
+    "nama_khodam": "Makhluk Cahaya Surga",
+    "tipe_khodam": "Makhluk Astral",
+    "asal": "Surga"
+  },
+  {
+    "nama_khodam": "Dewa Bumi Gaia",
+    "tipe_khodam": "Dewa",
+    "asal": "Pusat Bumi"
+  },
+  {
+    "nama_khodam": "Leluhur Batu Kuat",
+    "tipe_khodam": "Leluhur",
+    "asal": "Gua Tersembunyi"
+  },
+  {
+    "nama_khodam": "Jin Air Sungai",
+    "tipe_khodam": "Jin",
+    "asal": "Sungai Terdalam"
+  },
+  {
+    "nama_khodam": "Naga Api Vulkanik",
+    "tipe_khodam": "Naga",
+    "asal": "Gunung Berapi"
+  },
+  {
+    "nama_khodam": "Peri Tanah Subur",
+    "tipe_khodam": "Peri",
+    "asal": "Ladang Terbuka"
+  },
+  {
+    "nama_khodam": "Yeti Salju Pegunungan",
+    "tipe_khodam": "Yeti",
+    "asal": "Pegunungan Alpen"
+  },
+  {
+    "nama_khodam": "Makhluk Kegelapan Dimensi Lain",
+    "tipe_khodam": "Makhluk Astral",
+    "asal": "Dimensi Paralel"
+  },
+  {
+    "nama_khodam": "Dewa Angin Badai",
+    "tipe_khodam": "Dewa",
+    "asal": "Atmosfer Atas"
+  },
+  {
+    "nama_khodam": "Leluhur Logam Besi",
+    "tipe_khodam": "Leluhur",
+    "asal": "Tambang Bawah Tanah"
+  },
+  {
+    "nama_khodam": "Jin Cahaya Matahari",
+    "tipe_khodam": "Jin",
+    "asal": "Pusat Matahari"
+  },
+  {
+    "nama_khodam": "Naga Es Kutub Selatan",
+    "tipe_khodam": "Naga",
+    "asal": "Kutub Selatan"
+  },
+  {
+    "nama_khodam": "Peri Air Danau",
+    "tipe_khodam": "Peri",
+    "asal": "Danau Tersembunyi"
+  },
+  {
+    "nama_khodam": "Yeti Hutan Rimba",
+    "tipe_khodam": "Yeti",
+    "asal": "Hutan Amazon"
+  },
+  {
+    "nama_khodam": "Makhluk Cahaya Bintang",
+    "tipe_khodam": "Makhluk Astral",
+    "asal": "Galaksi Bima Sakti"
+  },
+  {
+    "nama_khodam": "Dewa Tanah Subur",
+    "tipe_khodam": "Dewa",
+    "asal": "Ladang Pertanian"
+  },
+  {
+    "nama_khodam": "Leluhur Air Samudra",
+    "tipe_khodam": "Leluhur",
+    "asal": "Samudra Pasifik"
+  },
+  {
+    "nama_khodam": "Jin Logam Besi",
+    "tipe_khodam": "Jin",
+    "asal": "Tambang Bawah Tanah"
+  },
+  {
+    "nama_khodam": "Naga Api Gunung Berapi",
+    "tipe_khodam": "Naga",
+    "asal": "Gunung Merapi"
+  },
+  {
+    "nama_khodam": "Peri Udara Langit",
+    "tipe_khodam": "Peri",
+    "asal": "Langit Biru"
+  },
+  {
+    "nama_khodam": "Yeti Salju Pegunungan",
+    "tipe_khodam": "Yeti",
+    "asal": "Himalaya"
+  },
+  {
+    "nama_khodam": "Makhluk Kegelapan Dimensi Paralel",
+    "tipe_khodam": "Makhluk Astral",
+    "asal": "Dimensi Cermin"
+  },
+  {
+    "nama_khodam": "Dewa Angin Topan",
+    "tipe_khodam": "Dewa",
+    "asal": "Samudra Atlantik"
+  },
+  {
+    "nama_khodam": "Leluhur Logam Emas",
+    "tipe_khodam": "Leluhur",
+    "asal": "Tambang Emas"
+  },
+  {
+    "nama_khodam": "Jin Cahaya Matahari",
+    "tipe_khodam": "Jin",
+    "asal": "Matahari Terbit"
+  },
+  {
+    "nama_khodam": "Naga Es Kutub Utara",
+    "tipe_khodam": "Naga",
+    "asal": "Arktik"
+  },
+  {
+    "nama_khodam": "Peri Cahaya Matahari",
+    "tipe_khodam": "Peri",
+    "asal": "Surga Matahari"
+  },
+  {
+    "nama_khodam": "Yeti Es Antartika",
+    "tipe_khodam": "Yeti",
+    "asal": "Antartika"
+  },
+  {
+    "nama_khodam": "Makhluk Kegelapan Kosmik",
+    "tipe_khodam": "Makhluk Astral",
+    "asal": "Lubang Hitam"
+  },
+  {
+    "nama_khodam": "Dewa Angin Tornado",
+    "tipe_khodam": "Dewa",
+    "asal": "Pustaka Angin"
+  },
+  {
+    "nama_khodam": "Leluhur Logam Baja",
+    "tipe_khodam": "Leluhur",
+    "asal": "Kota Industri"
+  },
+  {
+    "nama_khodam": "Jin Cahaya Bintang",
+    "tipe_khodam": "Jin",
+    "asal": "Nebula"
+  },
+  {
+    "nama_khodam": "Naga Air Samudra Pasifik",
+    "tipe_khodam": "Naga",
+    "asal": "Samudra Pasifik"
+  },
+  {
+    "nama_khodam": "Peri Tanah Gurun",
+    "tipe_khodam": "Peri",
+    "asal": "Sahara"
+  },
+  {
+    "nama_khodam": "Yeti Salju Pegunungan Alpen",
+    "tipe_khodam": "Yeti",
+    "asal": "Pegunungan Alpen"
+  },
+  {
+    "nama_khodam": "Makhluk Cahaya Aurora",
+    "tipe_khodam": "Makhluk Astral",
+    "asal": "Kutub Utara"
+  },
+  {
+    "nama_khodam": "Dewa Bumi Gaia",
+    "tipe_khodam": "Dewa",
+    "asal": "Pusat Bumi"
+  },
+  {
+    "nama_khodam": "Leluhur Batu Kuat",
+    "tipe_khodam": "Leluhur",
+    "asal": "Gua Tersembunyi"
+  },
+  {
+    "nama_khodam": "Jin Air Sungai",
+    "tipe_khodam": "Jin",
+    "asal": "Sungai Terdalam"
+  },
+  {
+    "nama_khodam": "Naga Api Vulkanik",
+    "tipe_khodam": "Naga",
+    "asal": "Gunung Berapi"
+  },
+  {
+    "nama_khodam": "Peri Tanah Subur",
+    "tipe_khodam": "Peri",
+    "asal": "Ladang Terbuka"
+  },
+  {
+    "nama_khodam": "Yeti Salju Pegunungan",
+    "tipe_khodam": "Yeti",
+    "asal": "Pegunungan Alpen"
+  },
+  {
+    "nama_khodam": "Makhluk Kegelapan Dimensi Lain",
+    "tipe_khodam": "Makhluk Astral",
+    "asal": "Dimensi Paralel"
+  },
+  {
+    "nama_khodam": "Dewa Angin Badai",
+    "tipe_khodam": "Dewa",
+    "asal": "Atmosfer Atas"
+  },
+  {
+    "nama_khodam": "Leluhur Logam Besi",
+    "tipe_khodam": "Leluhur",
+    "asal": "Tambang Bawah Tanah"
+  },
+  {
+    "nama_khodam": "Jin Cahaya Matahari",
+    "tipe_khodam": "Jin",
+    "asal": "Pusat Matahari"
+  },
+  {
+    "nama_khodam": "Naga Es Kutub Selatan",
+    "tipe_khodam": "Naga",
+    "asal": "Kutub Selatan"
+  },
+  {
+    "nama_khodam": "Peri Air Danau",
+    "tipe_khodam": "Peri",
+    "asal": "Danau Tersembunyi"
+  },
+  {
+    "nama_khodam": "Yeti Hutan Rimba",
+    "tipe_khodam": "Yeti",
+    "asal": "Hutan Amazon"
+  },
+  {
+    "nama_khodam": "Makhluk Cahaya Bintang",
+    "tipe_khodam": "Makhluk Astral",
+    "asal": "Galaksi Bima Sakti"
+  },
+  {
+    "nama_khodam": "Dewa Tanah Subur",
+    "tipe_khodam": "Dewa",
+    "asal": "Ladang Pertanian"
+  },
+  {
+    "nama_khodam": "Leluhur Air Samudra",
+    "tipe_khodam": "Leluhur",
+    "asal": "Samudra Pasifik"
+  },
+  {
+    "nama_khodam": "Jin Logam Besi",
+    "tipe_khodam": "Jin",
+    "asal": "Tambang Bawah Tanah"
+  },
+  {
+    "nama_khodam": "Naga Api Gunung Berapi",
+    "tipe_khodam": "Naga",
+    "asal": "Gunung Merapi"
+  },
+  {
+    "nama_khodam": "Peri Udara Langit",
+    "tipe_khodam": "Peri",
+    "asal": "Langit Biru"
+  },
+  {
+    "nama_khodam": "Yeti Salju Pegunungan",
+    "tipe_khodam": "Yeti",
+    "asal": "Himalaya"
+  },
+  {
+    "nama_khodam": "Makhluk Kegelapan Dimensi Paralel",
+    "tipe_khodam": "Makhluk Astral",
+    "asal": "Dimensi Cermin"
+  },
+  {
+    "nama_khodam": "Dewa Angin Topan",
+    "tipe_khodam": "Dewa",
+    "asal": "Samudra Atlantik"
+  },
+  {
+    "nama_khodam": "Leluhur Logam Emas",
+    "tipe_khodam": "Leluhur",
+    "asal": "Tambang Emas"
+  },
+  {
+    "nama_khodam": "Jin Cahaya Matahari",
+    "tipe_khodam": "Jin",
+    "asal": "Matahari Terbit"
+  },
+  {
+    "nama_khodam": "Naga Es Kutub Utara",
+    "tipe_khodam": "Naga",
+    "asal": "Arktik"
+  },
+  {
+    "nama_khodam": "Peri Tanah Gurun",
+    "tipe_khodam": "Peri",
+    "asal": "Gobi"
+  },
+  {
+    "nama_khodam": "Yeti Salju Pegunungan Rocky",
+    "tipe_khodam": "Yeti",
+    "asal": "Pegunungan Rocky"
+  },
+  {
+    "nama_khodam": "Makhluk Cahaya Aurora Borealis",
+    "tipe_khodam": "Makhluk Astral",
+    "asal": "Kutub Utara"
+  },
+  {
+    "nama_khodam": "Dewa Bumi Gaia",
+    "tipe_khodam": "Dewa",
+    "asal": "Pusat Bumi"
+  },
+  {
+    "nama_khodam": "Leluhur Batu Kuat",
+    "tipe_khodam": "Leluhur",
+    "asal": "Gua Tersembunyi"
+  },
+  {
+    "nama_khodam": "Jin Air Sungai",
+    "tipe_khodam": "Jin",
+    "asal": "Sungai Terdalam"
+  },
+  {
+    "nama_khodam": "Naga Api Vulkanik",
+    "tipe_khodam": "Naga",
+    "asal": "Gunung Berapi"
+  },
+  {
+    "nama_khodam": "Peri Tanah Subur",
+    "tipe_khodam": "Peri",
+    "asal": "Ladang Terbuka"
+  },
+  {
+    "nama_khodam": "Yeti Salju Pegunungan",
+    "tipe_khodam": "Yeti",
+    "asal": "Pegunungan Alpen"
+  },
+  {
+    "nama_khodam": "Makhluk Kegelapan Dimensi Lain",
+    "tipe_khodam": "Makhluk Astral",
+    "asal": "Dimensi Paralel"
+  },
+  {
+    "nama_khodam": "Dewa Angin Badai",
+    "tipe_khodam": "Dewa",
+    "asal": "Atmosfer Atas"
+  },
+  {
+    "nama_khodam": "Leluhur Logam Besi",
+    "tipe_khodam": "Leluhur",
+    "asal": "Tambang Bawah Tanah"
+  },
+  {
+    "nama_khodam": "Jin Cahaya Matahari",
+    "tipe_khodam": "Jin",
+    "asal": "Pusat Matahari"
+  },
+  {
+    "nama_khodam": "Naga Es Kutub Selatan",
+    "tipe_khodam": "Naga",
+    "asal": "Kutub Selatan"
+  },
+  {
+    "nama_khodam": "Peri Air Danau",
+    "tipe_khodam": "Peri",
+    "asal": "Danau Tersembunyi"
+  },
+  {
+    "nama_khodam": "Yeti Hutan Boreal",
+    "tipe_khodam": "Yeti",
+    "asal": "Hutan Boreal"
+  },
+  {
+    "nama_khodam": "Makhluk Cahaya Aurora Australis",
+    "tipe_khodam": "Makhluk Astral",
+    "asal": "Kutub Selatan"
+  },
+  {
+    "nama_khodam": "Dewa Bumi Gaia",
+    "tipe_khodam": "Dewa",
+    "asal": "Pusat Bumi"
+  },
+  {
+    "nama_khodam": "Leluhur Batu Kuat",
+    "tipe_khodam": "Leluhur",
+    "asal": "Gua Tersembunyi"
+  },
+  {
+    "nama_khodam": "Jin Air Sungai",
+    "tipe_khodam": "Jin",
+    "asal": "Sungai Terdalam"
+  },
+  {
+    "nama_khodam": "Naga Api Vulkanik",
+    "tipe_khodam": "Naga",
+    "asal": "Gunung Berapi"
+  },
+  {
+    "nama_khodam": "Peri Tanah Subur",
+    "tipe_khodam": "Peri",
+    "asal": "Ladang Terbuka"
+  },
+  {
+    "nama_khodam": "Yeti Salju Pegunungan",
+    "tipe_khodam": "Yeti",
+    "asal": "Pegunungan Alpen"
+  },
+  {
+    "nama_khodam": "Makhluk Kegelapan Dimensi Lain",
+    "tipe_khodam": "Makhluk Astral",
+    "asal": "Dimensi Paralel"
+  },
+  {
+    "nama_khodam": "Dewa Angin Badai",
+    "tipe_khodam": "Dewa",
+    "asal": "Atmosfer Atas"
+  },
+  {
+    "nama_khodam": "Leluhur Logam Besi",
+    "tipe_khodam": "Leluhur",
+    "asal": "Tambang Bawah Tanah"
+  },
+  {
+    "nama_khodam": "Jin Cahaya Matahari",
+    "tipe_khodam": "Jin",
+    "asal": "Pusat Matahari"
+  },
+  {
+    "nama_khodam": "Naga Es Kutub Selatan",
+    "tipe_khodam": "Naga",
+    "asal": "Kutub Selatan"
+  },
+  {
+    "nama_khodam": "Peri Air Danau",
+    "tipe_khodam": "Peri",
+    "asal": "Danau Tersembunyi"
+  },
+  {
+    "nama_khodam": "Yeti Hutan Rimba",
+    "tipe_khodam": "Yeti",
+    "asal": "Hutan Amazon"
+  },
+  {
+    "nama_khodam": "Makhluk Cahaya Bintang",
+    "tipe_khodam": "Makhluk Astral",
+    "asal": "Galaksi Bima Sakti"
+  },
+  {
+    "nama_khodam": "Dewa Tanah Subur",
+    "tipe_khodam": "Dewa",
+    "asal": "Ladang Pertanian"
+  },
+  {
+    "nama_khodam": "Leluhur Air Samudra",
+    "tipe_khodam": "Leluhur",
+    "asal": "Samudra Pasifik"
+  },
+  {
+    "nama_khodam": "Jin Logam Besi",
+    "tipe_khodam": "Jin",
+    "asal": "Tambang Bawah Tanah"
+  },
+  {
+    "nama_khodam": "Naga Api Gunung Berapi",
+    "tipe_khodam": "Naga",
+    "asal": "Gunung Merapi"
+  },
+  {
+    "nama_khodam": "Peri Udara Langit",
+    "tipe_khodam": "Peri",
+    "asal": "Langit Biru"
+  },
+  {
+    "nama_khodam": "Yeti Salju Pegunungan",
+    "tipe_khodam": "Yeti",
+    "asal": "Himalaya"
+  },
+  {
+    "nama_khodam": "Makhluk Kegelapan Dimensi Paralel",
+    "tipe_khodam": "Makhluk Astral",
+    "asal": "Dimensi Cermin"
+  },
+  {
+    "nama_khodam": "Dewa Angin Topan",
+    "tipe_khodam": "Dewa",
+    "asal": "Samudra Atlantik"
+  },
+  {
+    "nama_khodam": "Leluhur Logam Emas",
+    "tipe_khodam": "Leluhur",
+    "asal": "Tambang Emas"
+  },
+  {
+    "nama_khodam": "Jin Cahaya Matahari",
+    "tipe_khodam": "Jin",
+    "asal": "Matahari Terbit"
+  },
+  {
+    "nama_khodam": "Naga Es Kutub Utara",
+    "tipe_khodam": "Naga",
+    "asal": "Arktik"
+  },
+  {
+    "nama_khodam": "Peri Tanah Gurun",
+    "tipe_khodam": "Peri",
+    "asal": "Gobi"
+  },
+  {
+    "nama_khodam": "Yeti Salju Pegunungan Rocky",
+    "tipe_khodam": "Yeti",
+    "asal": "Pegunungan Rocky"
+  },
+  {
+    "nama_khodam": "Makhluk Cahaya Aurora Borealis",
+    "tipe_khodam": "Makhluk Astral",
+    "asal": "Kutub Utara"
+  },
+  {
+    "nama_khodam": "Dewa Bumi Gaia",
+    "tipe_khodam": "Dewa",
+    "asal": "Pusat Bumi"
+  },
+  {
+    "nama_khodam": "Leluhur Batu Kuat",
+    "tipe_khodam": "Leluhur",
+    "asal": "Gua Tersembunyi"
+  },
+  {
+    "nama_khodam": "Jin Air Sungai",
+    "tipe_khodam": "Jin",
+    "asal": "Sungai Terdalam"
+  },
+  {
+    "nama_khodam": "Naga Api Vulkanik",
+    "tipe_khodam": "Naga",
+    "asal": "Gunung Berapi"
+  },
+  {
+    "nama_khodam": "Peri Tanah Subur",
+    "tipe_khodam": "Peri",
+    "asal": "Ladang Terbuka"
+  },
+  {
+    "nama_khodam": "Yeti Salju Pegunungan",
+    "tipe_khodam": "Yeti",
+    "asal": "Pegunungan Alpen"
+  },
+  {
+    "nama_khodam": "Makhluk Kegelapan Dimensi Lain",
+    "tipe_khodam": "Makhluk Astral",
+    "asal": "Dimensi Paralel"
+  },
+  {
+    "nama_khodam": "Dewa Angin Badai",
+    "tipe_khodam": "Dewa",
+    "asal": "Atmosfer Atas"
+  },
+  {
+    "nama_khodam": "Leluhur Logam Besi",
+    "tipe_khodam": "Leluhur",
+    "asal": "Tambang Bawah Tanah"
+  },
+  {
+    "nama_khodam": "Jin Cahaya Matahari",
+    "tipe_khodam": "Jin",
+    "asal": "Pusat Matahari"
+  },
+  {
+    "nama_khodam": "Naga Es Kutub Selatan",
+    "tipe_khodam": "Naga",
+    "asal": "Kutub Selatan"
+  },
+  {
+    "nama_khodam": "Peri Air Danau",
+    "tipe_khodam": "Peri",
+    "asal": "Danau Tersembunyi"
+  },
+  {
+    "nama_khodam": "Yeti Hutan Rimba",
+    "tipe_khodam": "Yeti",
+    "asal": "Hutan Amazon"
+  },
+  {
+    "nama_khodam": "Makhluk Cahaya Bintang",
+    "tipe_khodam": "Makhluk Astral",
+    "asal": "Galaksi Bima Sakti"
+  },
+  {
+    "nama_khodam": "Dewa Tanah Subur",
+    "tipe_khodam": "Dewa",
+    "asal": "Ladang Pertanian"
+  },
+  {
+    "nama_khodam": "Leluhur Air Samudra",
+    "tipe_khodam": "Leluhur",
+    "asal": "Samudra Pasifik"
+  },
+  {
+    "nama_khodam": "Jin Logam Besi",
+    "tipe_khodam": "Jin",
+    "asal": "Tambang Bawah Tanah"
+  },
+  {
+    "nama_khodam": "Naga Api Gunung Berapi",
+    "tipe_khodam": "Naga",
+    "asal": "Gunung Merapi"
+  },
+  {
+    "nama_khodam": "Peri Udara Langit",
+    "tipe_khodam": "Peri",
+    "asal": "Langit Biru"
+  },
+  {
+    "nama_khodam": "Yeti Salju Pegunungan",
+    "tipe_khodam": "Yeti",
+    "asal": "Himalaya"
+  },
+  {
+    "nama_khodam": "Makhluk Kegelapan Dimensi Paralel",
+    "tipe_khodam": "Makhluk Astral",
+    "asal": "Dimensi Cermin"
+  },
+  {
+    "nama_khodam": "Dewa Angin Topan",
+    "tipe_khodam": "Dewa",
+    "asal": "Samudra Atlantik"
+  },
+  {
+    "nama_khodam": "Leluhur Logam Emas",
+    "tipe_khodam": "Leluhur",
+    "asal": "Tambang Emas"
+  },
+  {
+    "nama_khodam": "Jin Cahaya Matahari",
+    "tipe_khodam": "Jin",
+    "asal": "Matahari Terbit"
+  },
+  {
+    "nama_khodam": "Naga Es Kutub Utara",
+    "tipe_khodam": "Naga",
+    "asal": "Arktik"
+  },
+  {
+    "nama_khodam": "Peri Tanah Gurun",
+    "tipe_khodam": "Peri",
+    "asal": "Gobi"
+  },
+  {
+    "nama_khodam": "Yeti Salju Pegunungan Rocky",
+    "tipe_khodam": "Yeti",
+    "asal": "Pegunungan Rocky"
+  },
+  {
+    "nama_khodam": "Makhluk Cahaya Aurora Borealis",
+    "tipe_khodam": "Makhluk Astral",
+    "asal": "Kutub Utara"
+  },
+  {
+    "nama_khodam": "Leluhur Batu Kuat",
+    "tipe_khodam": "Leluhur",
+    "asal": "Gua Tersembunyi"
+  },
+  {
+    "nama_khodam": "Jin Air Sungai",
+    "tipe_khodam": "Jin",
+    "asal": "Sungai Terdalam"
+  },
+  {
+    "nama_khodam": "Naga Api Vulkanik",
+    "tipe_khodam": "Naga",
+    "asal": "Gunung Berapi"
+  },
+  {
+    "nama_khodam": "Peri Tanah Subur",
+    "tipe_khodam": "Peri",
+    "asal": "Ladang Terbuka"
+  },
+  {
+    "nama_khodam": "Yeti Salju Pegunungan",
+    "tipe_khodam": "Yeti",
+    "asal": "Pegunungan Alpen"
+  },
+  {
+    "nama_khodam": "Makhluk Kegelapan Dimensi Lain",
+    "tipe_khodam": "Makhluk Astral",
+    "asal": "Dimensi Paralel"
+  },
+  {
+    "nama_khodam": "Dewa Angin Badai",
+    "tipe_khodam": "Dewa",
+    "asal": "Atmosfer Atas"
+  },
+  {
+    "nama_khodam": "Leluhur Logam Besi",
+    "tipe_khodam": "Leluhur",
+    "asal": "Tambang Bawah Tanah"
+  },
+  {
+    "nama_khodam": "Jin Cahaya Matahari",
+    "tipe_khodam": "Jin",
+    "asal": "Pusat Matahari"
+  },
+  {
+    "nama_khodam": "Naga Es Kutub Selatan",
+    "tipe_khodam": "Naga",
+    "asal": "Kutub Selatan"
+  },
+  {
+    "nama_khodam": "Peri Air Danau",
+    "tipe_khodam": "Peri",
+    "asal": "Danau Tersembunyi"
+  },
+  {
+    "nama_khodam": "Yeti Hutan Rimba",
+    "tipe_khodam": "Yeti",
+    "asal": "Hutan Amazon"
+  },
+  {
+    "nama_khodam": "Makhluk Cahaya Bintang",
+    "tipe_khodam": "Makhluk Astral",
+    "asal": "Galaksi Bima Sakti"
+  },
+  {
+    "nama_khodam": "Dewa Tanah Subur",
+    "tipe_khodam": "Dewa",
+    "asal": "Ladang Pertanian"
+  },
+  {
+    "nama_khodam": "Leluhur Air Samudra",
+    "tipe_khodam": "Leluhur",
+    "asal": "Samudra Pasifik"
+  },
+  {
+    "nama_khodam": "Jin Logam Besi",
+    "tipe_khodam": "Jin",
+    "asal": "Tambang Bawah Tanah"
+  },
+  {
+    "nama_khodam": "Naga Api Gunung Berapi",
+    "tipe_khodam": "Naga",
+    "asal": "Gunung Merapi"
+  },
+  {
+    "nama_khodam": "Peri Udara Langit",
+    "tipe_khodam": "Peri",
+    "asal": "Langit Biru"
+  },
+  {
+    "nama_khodam": "Yeti Salju Pegunungan",
+    "tipe_khodam": "Yeti",
+    "asal": "Himalaya"
+  },
+  {
+    "nama_khodam": "Makhluk Kegelapan Dimensi Paralel",
+    "tipe_khodam": "Makhluk Astral",
+    "asal": "Dimensi Cermin"
+  },
+  {
+    "nama_khodam": "Dewa Angin Topan",
+    "tipe_khodam": "Dewa",
+    "asal": "Samudra Atlantik"
+  },
+  {
+    "nama_khodam": "Leluhur Logam Emas",
+    "tipe_khodam": "Leluhur",
+    "asal": "Tambang Emas"
+  },
+  {
+    "nama_khodam": "Jin Cahaya Matahari",
+    "tipe_khodam": "Jin",
+    "asal": "Matahari Terbit"
+  },
+  {
+    "nama_khodam": "Naga Es Kutub Utara",
+    "tipe_khodam": "Naga",
+    "asal": "Arktik"
+  },
+  {
+    "nama_khodam": "Peri Tanah Gurun",
+    "tipe_khodam": "Peri",
+    "asal": "Gobi"
+  },
+  {
+    "nama_khodam": "Yeti Salju Pegunungan Rocky",
+    "tipe_khodam": "Yeti",
+    "asal": "Pegunungan Rocky"
+  },
+  {
+    "nama_khodam": "Makhluk Cahaya Aurora Borealis",
+    "tipe_khodam": "Makhluk Astral",
+    "asal": "Kutub Utara"
+  },
+  {
+    "nama_khodam": "Dewa Bumi Gaia",
+    "tipe_khodam": "Dewa",
+    "asal": "Pusat Bumi"
+  },
+  {
+    "nama_khodam": "Leluhur Batu Kuat",
+    "tipe_khodam": "Leluhur",
+    "asal": "Gua Tersembunyi"
+  },
+  {
+    "nama_khodam": "Jin Air Sungai",
+    "tipe_khodam": "Jin",
+    "asal": "Sungai Terdalam"
+  },
+  {
+    "nama_khodam": "Naga Api Vulkanik",
+    "tipe_khodam": "Naga",
+    "asal": "Gunung Berapi"
+  },
+  {
+    "nama_khodam": "Peri Tanah Subur",
+    "tipe_khodam": "Peri",
+    "asal": "Ladang Terbuka"
+  },
+  {
+    "nama_khodam": "Yeti Salju Pegunungan",
+    "tipe_khodam": "Yeti",
+    "asal": "Pegunungan Alpen"
+  },
+  {
+    "nama_khodam": "Makhluk Kegelapan Dimensi Lain",
+    "tipe_khodam": "Makhluk Astral",
+    "asal": "Dimensi Paralel"
+  },
+  {
+    "nama_khodam": "Dewa Angin Badai",
+    "tipe_khodam": "Dewa",
+    "asal": "Atmosfer Atas"
+  },
+  {
+    "nama_khodam": "Leluhur Logam Besi",
+    "tipe_khodam": "Leluhur",
+    "asal": "Tambang Bawah Tanah"
+  },
+  {
+    "nama_khodam": "Jin Cahaya Matahari",
+    "tipe_khodam": "Jin",
+    "asal": "Pusat Matahari"
+  },
+  {
+    "nama_khodam": "Naga Es Kutub Selatan",
+    "tipe_khodam": "Naga",
+    "asal": "Kutub Selatan"
+  },
+  {
+    "nama_khodam": "Peri Air Danau",
+    "tipe_khodam": "Peri",
+    "asal": "Danau Tersembunyi"
+  },
+  {
+    "nama_khodam": "Yeti Hutan Rimba",
+    "tipe_khodam": "Yeti",
+    "asal": "Hutan Amazon"
+  },
+  {
+    "nama_khodam": "Makhluk Cahaya Bintang",
+    "tipe_khodam": "Makhluk Astral",
+    "asal": "Galaksi Bima Sakti"
+  },
+  {
+    "nama_khodam": "Dewa Tanah Subur",
+    "tipe_khodam": "Dewa",
+    "asal": "Ladang Pertanian"
+  },
+  {
+    "nama_khodam": "Leluhur Air Samudra",
+    "tipe_khodam": "Leluhur",
+    "asal": "Samudra Pasifik"
+  },
+  {
+    "nama_khodam": "Jin Logam Besi",
+    "tipe_khodam": "Jin",
+    "asal": "Tambang Bawah Tanah"
+  },
+  {
+    "nama_khodam": "Naga Api Gunung Berapi",
+    "tipe_khodam": "Naga",
+    "asal": "Gunung Merapi"
+  },
+  {
+    "nama_khodam": "Peri Udara Langit",
+    "tipe_khodam": "Peri",
+    "asal": "Langit Biru"
+  },
+  {
+    "nama_khodam": "Yeti Salju Pegunungan",
+    "tipe_khodam": "Yeti",
+    "asal": "Himalaya"
+  },
+  {
+    "nama_khodam": "Makhluk Kegelapan Dimensi Paralel",
+    "tipe_khodam": "Makhluk Astral",
+    "asal": "Dimensi Cermin"
+  },
+  {
+    "nama_khodam": "Dewa Angin Topan",
+    "tipe_khodam": "Dewa",
+    "asal": "Samudra Atlantik"
+  },
+  {
+    "nama_khodam": "Leluhur Logam Emas",
+    "tipe_khodam": "Leluhur",
+    "asal": "Tambang Emas"
+  },
+  {
+    "nama_khodam": "Jin Cahaya Matahari",
+    "tipe_khodam": "Jin",
+    "asal": "Matahari Terbit"
+  },
+  {
+    "nama_khodam": "Naga Es Kutub Utara",
+    "tipe_khodam": "Naga",
+    "asal": "Arktik"
+  },
+  {
+    "nama_khodam": "Peri Tanah Gurun",
+    "tipe_khodam": "Peri",
+    "asal": "Gobi"
+  },
+  {
+    "nama_khodam": "Yeti Salju Pegunungan Rocky",
+    "tipe_khodam": "Yeti",
+    "asal": "Pegunungan Rocky"
+  },
+  {
+    "nama_khodam": "Makhluk Cahaya Aurora Borealis",
+    "tipe_khodam": "Makhluk Astral",
+    "asal": "Kutub Utara"
+  },
+  {
+    "nama_khodam": "Dewa Bumi Gaia",
+    "tipe_khodam": "Dewa",
+    "asal": "Pusat Bumi"
+  },
+  {
+    "nama_khodam": "Leluhur Batu Kuat",
+    "tipe_khodam": "Leluhur",
+    "asal": "Gua Tersembunyi"
+  },
+  {
+    "nama_khodam": "Jin Air Sungai",
+    "tipe_khodam": "Jin",
+    "asal": "Sungai Terdalam"
+  },
+  {
+    "nama_khodam": "Naga Air Samudra Atlantik",
+    "tipe_khodam": "Naga",
+    "asal": "Samudra Atlantik"
+  },
+  {
+    "nama_khodam": "Peri Tanah Gurun Sahara",
+    "tipe_khodam": "Peri",
+    "asal": "Sahara"
+  },
+  {
+    "nama_khodam": "Yeti Salju Pegunungan Rocky",
+    "tipe_khodam": "Yeti",
+    "asal": "Pegunungan Rocky"
+  },
+  {
+    "nama_khodam": "Makhluk Cahaya Aurora Borealis",
+    "tipe_khodam": "Makhluk Astral",
+    "asal": "Kutub Utara"
+  },
+  {
+    "nama_khodam": "Dewa Bumi Gaia",
+    "tipe_khodam": "Dewa",
+    "asal": "Pusat Bumi"
+  },
+  {
+    "nama_khodam": "Leluhur Batu Kuat",
+    "tipe_khodam": "Leluhur",
+    "asal": "Gua Tersembunyi"
+  },
+  {
+    "nama_khodam": "Jin Air Sungai",
+    "tipe_khodam": "Jin",
+    "asal": "Sungai Terdalam"
+  },
+  {
+    "nama_khodam": "Naga Api Vulkanik",
+    "tipe_khodam": "Naga",
+    "asal": "Gunung Berapi"
+  },
+  {
+    "nama_khodam": "Peri Tanah Subur",
+    "tipe_khodam": "Peri",
+    "asal": "Ladang Terbuka"
+  },
+  {
+    "nama_khodam": "Yeti Salju Pegunungan",
+    "tipe_khodam": "Yeti",
+    "asal": "Pegunungan Alpen"
+  },
+  {
+    "nama_khodam": "Makhluk Kegelapan Dimensi Lain",
+    "tipe_khodam": "Makhluk Astral",
+    "asal": "Dimensi Paralel"
+  },
+  {
+    "nama_khodam": "Dewa Angin Badai",
+    "tipe_khodam": "Dewa",
+    "asal": "Atmosfer Atas"
+  },
+  {
+    "nama_khodam": "Leluhur Logam Besi",
+    "tipe_khodam": "Leluhur",
+    "asal": "Tambang Bawah Tanah"
+  },
+  {
+    "nama_khodam": "Jin Cahaya Matahari",
+    "tipe_khodam": "Jin",
+    "asal": "Pusat Matahari"
+  },
+  {
+    "nama_khodam": "Naga Es Kutub Selatan",
+    "tipe_khodam": "Naga",
+    "asal": "Kutub Selatan"
+  },
+  {
+    "nama_khodam": "Peri Air Danau",
+    "tipe_khodam": "Peri",
+    "asal": "Danau Tersembunyi"
+  },
+  {
+    "nama_khodam": "Yeti Hutan Rimba",
+    "tipe_khodam": "Yeti",
+    "asal": "Hutan Amazon"
+  },
+  {
+    "nama_khodam": "Makhluk Cahaya Bintang",
+    "tipe_khodam": "Makhluk Astral",
+    "asal": "Galaksi Bima Sakti"
+  },
+  {
+    "nama_khodam": "Dewa Tanah Subur",
+    "tipe_khodam": "Dewa",
+    "asal": "Ladang Pertanian"
+  },
+  {
+    "nama_khodam": "Leluhur Air Samudra",
+    "tipe_khodam": "Leluhur",
+    "asal": "Samudra Pasifik"
+  },
+  {
+    "nama_khodam": "Jin Logam Besi",
+    "tipe_khodam": "Jin",
+    "asal": "Tambang Bawah Tanah"
+  },
+  {
+    "nama_khodam": "Naga Api Gunung Berapi",
+    "tipe_khodam": "Naga",
+    "asal": "Gunung Merapi"
+  },
+  {
+    "nama_khodam": "Peri Udara Langit",
+    "tipe_khodam": "Peri",
+    "asal": "Langit Biru"
+  },
+  {
+    "nama_khodam": "Yeti Salju Pegunungan",
+    "tipe_khodam": "Yeti",
+    "asal": "Himalaya"
+  },
+  {
+    "nama_khodam": "Makhluk Kegelapan Dimensi Paralel",
+    "tipe_khodam": "Makhluk Astral",
+    "asal": "Dimensi Cermin"
+  },
+  {
+    "nama_khodam": "Dewa Angin Topan",
+    "tipe_khodam": "Dewa",
+    "asal": "Samudra Atlantik"
+  },
+  {
+    "nama_khodam": "Leluhur Logam Emas",
+    "tipe_khodam": "Leluhur",
+    "asal": "Tambang Emas"
+  },
+  {
+    "nama_khodam": "Jin Cahaya Matahari",
+    "tipe_khodam": "Jin",
+    "asal": "Matahari Terbit"
+  },
+  {
+    "nama_khodam": "Naga Es Kutub Utara",
+    "tipe_khodam": "Naga",
+    "asal": "Arktik"
+  },
+  {
+    "nama_khodam": "Peri Tanah Gurun",
+    "tipe_khodam": "Peri",
+    "asal": "Gobi"
+  },
+  {
+    "nama_khodam": "Yeti Salju Pegunungan Rocky",
+    "tipe_khodam": "Yeti",
+    "asal": "Pegunungan Rocky"
+  },
+  {
+    "nama_khodam": "Makhluk Cahaya Aurora Borealis",
+    "tipe_khodam": "Makhluk Astral",
+    "asal": "Kutub Utara"
+  },
+  {
+    "nama_khodam": "Dewa Bumi Gaia",
+    "tipe_khodam": "Dewa",
+    "asal": "Pusat Bumi"
+  },
+  {
+    "nama_khodam": "Leluhur Batu Kuat",
+    "tipe_khodam": "Leluhur",
+    "asal": "Gua Tersembunyi"
+  },
+  {
+    "nama_khodam": "Jin Air Sungai",
+    "tipe_khodam": "Jin",
+    "asal": "Sungai Terdalam"
+  },
+  {
+    "nama_khodam": "Naga Api Vulkanik",
+    "tipe_khodam": "Naga",
+    "asal": "Gunung Berapi"
+  },
+  {
+    "nama_khodam": "Peri Tanah Subur",
+    "tipe_khodam": "Peri",
+    "asal": "Ladang Terbuka"
+  },
+  {
+    "nama_khodam": "Yeti Salju Pegunungan",
+    "tipe_khodam": "Yeti",
+    "asal": "Pegunungan Alpen"
+  },
+  {
+    "nama_khodam": "Makhluk Kegelapan Dimensi Lain",
+    "tipe_khodam": "Makhluk Astral",
+    "asal": "Dimensi Paralel"
+  },
+  {
+    "nama_khodam": "Dewa Angin Badai",
+    "tipe_khodam": "Dewa",
+    "asal": "Atmosfer Atas"
+  },
+  {
+    "nama_khodam": "Leluhur Logam Besi",
+    "tipe_khodam": "Leluhur",
+    "asal": "Tambang Bawah Tanah"
+  },
+  {
+    "nama_khodam": "Jin Cahaya Matahari",
+    "tipe_khodam": "Jin",
+    "asal": "Pusat Matahari"
+  },
+  {
+    "nama_khodam": "Naga Es Kutub Selatan",
+    "tipe_khodam": "Naga",
+    "asal": "Kutub Selatan"
+  },
+  {
+    "nama_khodam": "Peri Air Danau",
+    "tipe_khodam": "Peri",
+    "asal": "Danau Tersembunyi"
+  },
+  {
+    "nama_khodam": "Yeti Hutan Rimba",
+    "tipe_khodam": "Yeti",
+    "asal": "Hutan Amazon"
+  },
+  {
+    "nama_khodam": "Makhluk Cahaya Bintang",
+    "tipe_khodam": "Makhluk Astral",
+    "asal": "Galaksi Bima Sakti"
+  },
+  {
+    "nama_khodam": "Dewa Tanah Subur",
+    "tipe_khodam": "Dewa",
+    "asal": "Ladang Pertanian"
+  },
+  {
+    "nama_khodam": "Leluhur Air Samudra",
+    "tipe_khodam": "Leluhur",
+    "asal": "Samudra Pasifik"
+  },
+  {
+    "nama_khodam": "Jin Logam Besi",
+    "tipe_khodam": "Jin",
+    "asal": "Tambang Bawah Tanah"
+  },
+  {
+    "nama_khodam": "Naga Api Gunung Berapi",
+    "tipe_khodam": "Naga",
+    "asal": "Gunung Merapi"
+  },
+  {
+    "nama_khodam": "Peri Udara Langit",
+    "tipe_khodam": "Peri",
+    "asal": "Langit Biru"
+  },
+  {
+    "nama_khodam": "Yeti Salju Pegunungan",
+    "tipe_khodam": "Yeti",
+    "asal": "Himalaya"
+  },
+  {
+    "nama_khodam": "Makhluk Kegelapan Dimensi Paralel",
+    "tipe_khodam": "Makhluk Astral",
+    "asal": "Dimensi Cermin"
+  },
+  {
+    "nama_khodam": "Dewa Angin Topan",
+    "tipe_khodam": "Dewa",
+    "asal": "Samudra Atlantik"
+  },
+  {
+    "nama_khodam": "Leluhur Logam Emas",
+    "tipe_khodam": "Leluhur",
+    "asal": "Tambang Emas"
+  },
+  {
+    "nama_khodam": "Jin Cahaya Matahari",
+    "tipe_khodam": "Jin",
+    "asal": "Matahari Terbit"
+  },
+  {
+    "nama_khodam": "Naga Es Kutub Utara",
+    "tipe_khodam": "Naga",
+    "asal": "Arktik"
+  },
+  {
+    "nama_khodam": "Peri Tanah Gurun",
+    "tipe_khodam": "Peri",
+    "asal": "Gobi"
+  },
+  {
+    "nama_khodam": "Yeti Salju Pegunungan Rocky",
+    "tipe_khodam": "Yeti",
+    "asal": "Pegunungan Rocky"
+  },
+  {
+    "nama_khodam": "Makhluk Cahaya Aurora Borealis",
+    "tipe_khodam": "Makhluk Astral",
+    "asal": "Kutub Utara"
+  },
+  {
+    "nama_khodam": "Dewa Bumi Gaia",
+    "tipe_khodam": "Dewa",
+    "asal": "Pusat Bumi"
+  },
+  {
+    "nama_khodam": "Leluhur Batu Kuat",
+    "tipe_khodam": "Leluhur",
+    "asal": "Gua Tersembunyi"
+  },
+  {
+    "nama_khodam": "Jin Air Sungai",
+    "tipe_khodam": "Jin",
+    "asal": "Sungai Terdalam"
+  },
+  {
+    "nama_khodam": "Naga Api Vulkanik",
+    "tipe_khodam": "Naga",
+    "asal": "Gunung Berapi"
+  },
+  {
+    "nama_khodam": "Peri Tanah Subur",
+    "tipe_khodam": "Peri",
+    "asal": "Ladang Terbuka"
+  },
+  {
+    "nama_khodam": "Yeti Salju Pegunungan",
+    "tipe_khodam": "Yeti",
+    "asal": "Pegunungan Alpen"
+  },
+  {
+    "nama_khodam": "Makhluk Kegelapan Dimensi Lain",
+    "tipe_khodam": "Makhluk Astral",
+    "asal": "Dimensi Paralel"
+  },
+  {
+    "nama_khodam": "Dewa Angin Badai",
+    "tipe_khodam": "Dewa",
+    "asal": "Atmosfer Atas"
+  },
+  {
+    "nama_khodam": "Leluhur Logam Besi",
+    "tipe_khodam": "Leluhur",
+    "asal": "Tambang Bawah Tanah"
+  },
+  {
+    "nama_khodam": "Jin Cahaya Matahari",
+    "tipe_khodam": "Jin",
+    "asal": "Pusat Matahari"
+  },
+  {
+    "nama_khodam": "Naga Es Kutub Selatan",
+    "tipe_khodam": "Naga",
+    "asal": "Kutub Selatan"
+  },
+  {
+    "nama_khodam": "Peri Air Danau",
+    "tipe_khodam": "Peri",
+    "asal": "Danau Tersembunyi"
+  },
+  {
+    "nama_khodam": "Yeti Hutan Rimba",
+    "tipe_khodam": "Yeti",
+    "asal": "Hutan Amazon"
+  },
+  {
+    "nama_khodam": "Makhluk Cahaya Bintang",
+    "tipe_khodam": "Makhluk Astral",
+    "asal": "Galaksi Bima Sakti"
+  },
+  {
+    "nama_khodam": "Dewa Tanah Subur",
+    "tipe_khodam": "Dewa",
+    "asal": "Ladang Pertanian"
+  },
+  {
+    "nama_khodam": "Leluhur Air Samudra",
+    "tipe_khodam": "Leluhur",
+    "asal": "Samudra Pasifik"
+  },
+  {
+    "nama_khodam": "Jin Logam Besi",
+    "tipe_khodam": "Jin",
+    "asal": "Tambang Bawah Tanah"
+  },
+  {
+    "nama_khodam": "Naga Api Gunung Berapi",
+    "tipe_khodam": "Naga",
+    "asal": "Gunung Merapi"
+  },
+  {
+    "nama_khodam": "Peri Udara Langit",
+    "tipe_khodam": "Peri",
+    "asal": "Langit Biru"
+  },
+  {
+    "nama_khodam": "Yeti Salju Pegunungan",
+    "tipe_khodam": "Yeti",
+    "asal": "Himalaya"
+  },
+  {
+    "nama_khodam": "Makhluk Kegelapan Dimensi Paralel",
+    "tipe_khodam": "Makhluk Astral",
+    "asal": "Dimensi Cermin"
+  },
+  {
+    "nama_khodam": "Dewa Angin Topan",
+    "tipe_khodam": "Dewa",
+    "asal": "Samudra Atlantik"
+  },
+  {
+    "nama_khodam": "Leluhur Logam Emas",
+    "tipe_khodam": "Leluhur",
+    "asal": "Tambang Emas"
+  },
+  {
+    "nama_khodam": "Jin Cahaya Matahari",
+    "tipe_khodam": "Jin",
+    "asal": "Matahari Terbit"
+  },
+  {
+    "nama_khodam": "Naga Es Kutub Utara",
+    "tipe_khodam": "Naga",
+    "asal": "Arktik"
+  },
+  {
+    "nama_khodam": "Peri Tanah Gurun",
+    "tipe_khodam": "Peri",
+    "asal": "Gobi"
+  },
+  {
+    "nama_khodam": "Yeti Salju Pegunungan Rocky",
+    "tipe_khodam": "Yeti",
+    "asal": "Pegunungan Rocky"
+  },
+  {
+    "nama_khodam": "Makhluk Cahaya Aurora Borealis",
+    "tipe_khodam": "Makhluk Astral",
+    "asal": "Kutub Utara"
+  },
+  {
+    "nama_khodam": "Dewa Bumi Gaia",
+    "tipe_khodam": "Dewa",
+    "asal": "Pusat Bumi"
+  },
+  {
+    "nama_khodam": "Leluhur Batu Kuat",
+    "tipe_khodam": "Leluhur",
+    "asal": "Gua Tersembunyi"
+  },
+  {
+    "nama_khodam": "Jin Air Sungai",
+    "tipe_khodam": "Jin",
+    "asal": "Sungai Terdalam"
+  },
+  {
+    "nama_khodam": "Naga Api Vulkanik",
+    "tipe_khodam": "Naga",
+    "asal": "Gunung Berapi"
+  },
+  {
+    "nama_khodam": "Peri Tanah Subur",
+    "tipe_khodam": "Peri",
+    "asal": "Ladang Terbuka"
+  },
+  {
+    "nama_khodam": "Yeti Salju Pegunungan",
+    "tipe_khodam": "Yeti",
+    "asal": "Pegunungan Alpen"
+  },
+  {
+    "nama_khodam": "Makhluk Kegelapan Dimensi Lain",
+    "tipe_khodam": "Makhluk Astral",
+    "asal": "Dimensi Paralel"
+  },
+  {
+    "nama_khodam": "Dewa Angin Badai",
+    "tipe_khodam": "Dewa",
+    "asal": "Atmosfer Atas"
+  },
+  {
+    "nama_khodam": "Leluhur Logam Besi",
+    "tipe_khodam": "Leluhur",
+    "asal": "Tambang Bawah Tanah"
+  },
+  {
+    "nama_khodam": "Jin Cahaya Matahari",
+    "tipe_khodam": "Jin",
+    "asal": "Pusat Matahari"
+  },
+  {
+    "nama_khodam": "Naga Es Kutub Selatan",
+    "tipe_khodam": "Naga",
+    "asal": "Kutub Selatan"
+  },
+  {
+    "nama_khodam": "Peri Air Danau",
+    "tipe_khodam": "Peri",
+    "asal": "Danau Tersembunyi"
+  },
+  {
+    "nama_khodam": "Yeti Hutan Rimba",
+    "tipe_khodam": "Yeti",
+    "asal": "Hutan Amazon"
+  },
+  {
+    "nama_khodam": "Makhluk Cahaya Bintang",
+    "tipe_khodam": "Makhluk Astral",
+    "asal": "Galaksi Bima Sakti"
+  },
+  {
+    "nama_khodam": "Dewa Tanah Subur",
+    "tipe_khodam": "Dewa",
+    "asal": "Ladang Pertanian"
+  },
+  {
+    "nama_khodam": "Leluhur Air Samudra",
+    "tipe_khodam": "Leluhur",
+    "asal": "Samudra Pasifik"
+  },
+  {
+    "nama_khodam": "Jin Logam Besi",
+    "tipe_khodam": "Jin",
+    "asal": "Tambang Bawah Tanah"
+  },
+  {
+    "nama_khodam": "Naga Api Gunung Berapi",
+    "tipe_khodam": "Naga",
+    "asal": "Gunung Merapi"
+  },
+  {
+    "nama_khodam": "Peri Udara Langit",
+    "tipe_khodam": "Peri",
+    "asal": "Langit Biru"
+  },
+  {
+    "nama_khodam": "Yeti Salju Pegunungan",
+    "tipe_khodam": "Yeti",
+    "asal": "Himalaya"
+  },
+  {
+    "nama_khodam": "Makhluk Kegelapan Dimensi Paralel",
+    "tipe_khodam": "Makhluk Astral",
+    "asal": "Dimensi Cermin"
+  },
+  {
+    "nama_khodam": "Dewa Angin Topan",
+    "tipe_khodam": "Dewa",
+    "asal": "Samudra Atlantik"
+  },
+  {
+    "nama_khodam": "Leluhur Logam Emas",
+    "tipe_khodam": "Leluhur",
+    "asal": "Tambang Emas"
+  },
+  {
+    "nama_khodam": "Jin Cahaya Matahari",
+    "tipe_khodam": "Jin",
+    "asal": "Matahari Terbit"
+  },
+  {
+    "nama_khodam": "Naga Es Kutub Utara",
+    "tipe_khodam": "Naga",
+    "asal": "Arktik"
+  },
+  {
+    "nama_khodam": "Peri Tanah Gurun",
+    "tipe_khodam": "Peri",
+    "asal": "Gobi"
+  },
+  {
+    "nama_khodam": "Yeti Salju Pegunungan Rocky",
+    "tipe_khodam": "Yeti",
+    "asal": "Pegunungan Rocky"
+  },
+  {
+    "nama_khodam": "Makhluk Cahaya Aurora Borealis",
+    "tipe_khodam": "Makhluk Astral",
+    "asal": "Kutub Utara"
+  },
+  {
+    "nama_khodam": "Seraph Cahaya Surga",
+    "tipe": "Seraph",
+    "asal": "Surga"
+  },
+  {
+    "nama_khodam": "Kraken Air Laut Dalam",
+    "tipe": "Kraken",
+    "asal": "Laut Dalam"
+  },
+  {
+    "nama_khodam": "Sylph Udara Angin",
+    "tipe": "Sylph",
+    "asal": "Udara"
+  },
+  {
+    "nama_khodam": "Gnome Tanah Subur",
+    "tipe": "Gnome",
+    "asal": "Tanah"
+  },
+  {
+    "nama_khodam": "Salamander Api Neraka",
+    "tipe": "Salamander",
+    "asal": "Neraka"
+  },
+  {
+    "nama_khodam": "Undine Air Samudra",
+    "tipe": "Undine",
+    "asal": "Samudra"
+  },
+  {
+    "nama_khodam": "Salamander Api Gunung Berapi",
+    "tipe": "Salamander",
+    "asal": "Gunung Berapi"
+  },
+  {
+    "nama_khodam": "Sylph Udara Badai",
+    "tipe": "Sylph",
+    "asal": "Udara"
+  },
+  {
+    "nama_khodam": "Gnome Tanah Gurun",
+    "tipe": "Gnome",
+    "asal": "Gurun"
+  },
+  {
+    "nama_khodam": "Seraph Cahaya Matahari",
+    "tipe": "Seraph",
+    "asal": "Matahari"
+  },
+  {
+    "nama_khodam": "Kraken Air Sungai",
+    "tipe": "Kraken",
+    "asal": "Sungai"
+  },
+  {
+    "nama_khodam": "Sylph Udara Angin Segar",
+    "tipe": "Sylph",
+    "asal": "Udara"
+  },
+  {
+    "nama_khodam": "Gnome Tanah Lembah",
+    "tipe": "Gnome",
+    "asal": "Lembah"
+  },
+  {
+    "nama_khodam": "Salamander Api Lava",
+    "tipe": "Salamander",
+    "asal": "Lava"
+  },
+  {
+    "nama_khodam": "Undine Air Hujan",
+    "tipe": "Undine",
+    "asal": "Hujan"
+  },
+  {
+    "nama_khodam": "Salamander Api Kilat",
+    "tipe": "Salamander",
+    "asal": "Api"
+  },
+  {
+    "nama_khodam": "Sylph Udara Topan",
+    "tipe": "Sylph",
+    "asal": "Udara"
+  },
+  {
+    "nama_khodam": "Gnome Tanah Pegunungan",
+    "tipe": "Gnome",
+    "asal": "Pegunungan"
+  },
+  {
+    "nama_khodam": "Seraph Cahaya Bulan",
+    "tipe": "Seraph",
+    "asal": "Bulan"
+  },
+  {
+    "nama_khodam": "Kraken Air Samudra Hindia",
+    "tipe": "Kraken",
+    "asal": "Samudra Hindia"
+  },
+  {
+    "nama_khodam": "Sylph Udara Angin Lembut",
+    "tipe": "Sylph",
+    "asal": "Udara"
+  },
+  {
+    "nama_khodam": "Gnome Tanah Hutan",
+    "tipe": "Gnome",
+    "asal": "Hutan"
+  },
+  {
+    "nama_khodam": "Salamander Api Neraka",
+    "tipe": "Salamander",
+    "asal": "Neraka"
+  },
+  {
+    "nama_khodam": "Undine Air Danau",
+    "tipe": "Undine",
+    "asal": "Danau"
+  },
+  {
+    "nama_khodam": "Salamander Api Matahari",
+    "tipe": "Salamander",
+    "asal": "Matahari"
+  },
+  {
+    "nama_khodam": "Sylph Udara Angin Kencang",
+    "tipe": "Sylph",
+    "asal": "Udara"
+  },
+  {
+    "nama_khodam": "Gnome Tanah Padang Rumput",
+    "tipe": "Gnome",
+    "asal": "Padang Rumput"
+  },
+  {
+    "nama_khodam": "Seraph Cahaya Bintang",
+    "tipe": "Seraph",
+    "asal": "Bintang"
+  },
+  {
+    "nama_khodam": "Kraken Air Laut Tengah",
+    "tipe": "Kraken",
+    "asal": "Laut Tengah"
+  },
+  {
+    "nama_khodam": "Sylph Udara Angin Sepoi",
+    "tipe": "Sylph",
+    "asal": "Udara"
+  },
+  {
+    "nama_khodam": "Gnome Tanah Padat",
+    "tipe": "Gnome",
+    "asal": "Tanah"
+  },
+  {
+    "nama_khodam": "Salamander Api Letusan",
+    "tipe": "Salamander",
+    "asal": "Letusan"
+  },
+  {
+    "nama_khodam": "Undine Air Hujan",
+    "tipe": "Undine",
+    "asal": "Hujan"
+  },
+  {
+    "nama_khodam": "Salamander Api Kemarahan",
+    "tipe": "Salamander",
+    "asal": "Api"
+  },
+  {
+    "nama_khodam": "Sylph Udara Angin Musim Panas",
+    "tipe": "Sylph",
+    "asal": "Udara"
+  },
+  {
+    "nama_khodam": "Gnome Tanah Pertanian",
+    "tipe": "Gnome",
+    "asal": "Pertanian"
+  },
+  {
+    "nama_khodam": "Seraph Cahaya Aurora",
+    "tipe": "Seraph",
+    "asal": "Aurora"
+  },
+  {
+    "nama_khodam": "Kraken Air Samudra Arktik",
+    "tipe": "Kraken",
+    "asal": "Samudra Arktik"
+  },
+  {
+    "nama_khodam": "Sylph Udara Angin Dingin",
+    "tipe": "Sylph",
+    "asal": "Udara"
+  },
+  {
+    "nama_khodam": "Gnome Tanah Padang Pasir",
+    "tipe": "Gnome",
+    "asal": "Padang Pasir"
+  },
+  {
+    "nama_khodam": "Salamander Api Panas",
+    "tipe": "Salamander",
+    "asal": "Api"
+  },
+  {
+    "nama_khodam": "Undine Air Hujan Tropis",
+    "tipe": "Undine",
+    "asal": "Hujan Tropis"
+  },
+  {
+    "nama_khodam": "Salamander Api Ledakan",
+    "tipe": "Salamander",
+    "asal": "Api"
+  },
+  {
+    "nama_khodam": "Sylph Udara Angin Musim Gugur",
+    "tipe": "Sylph",
+    "asal": "Udara"
+  },
+  {
+    "nama_khodam": "Gnome Tanah Pegunungan Tinggi",
+    "tipe": "Gnome",
+    "asal": "Pegunungan Tinggi"
+  },
+  {
+    "nama_khodam": "Seraph Cahaya Pagi",
+    "tipe": "Seraph",
+    "asal": "Pagi"
+  },
+  {
+    "nama_khodam": "Kraken Air Samudra Atlantik",
+    "tipe": "Kraken",
+    "asal": "Samudra Atlantik"
+  },
+  {
+    "nama_khodam": "Sylph Udara Angin Sejuk",
+    "tipe": "Sylph",
+    "asal": "Udara"
+  },
+  {
+    "nama_khodam": "Gnome Tanah Padang Rumput",
+    "tipe": "Gnome",
+    "asal": "Padang Rumput"
+  },
+  {
+    "nama_khodam": "Salamander Api Neraka",
+    "tipe": "Salamander",
+    "asal": "Neraka"
+  },
+  {
+    "nama_khodam": "Undine Air Danau Biru",
+    "tipe": "Undine",
+    "asal": "Danau Biru"
+  },
+  {
+    "nama_khodam": "Salamander Api Hangat",
+    "tipe": "Salamander",
+    "asal": "Api"
+  },
+  {
+    "nama_khodam": "Sylph Udara Angin Musim Semi",
+    "tipe": "Sylph",
+    "asal": "Udara"
+  },
+  {
+    "nama_khodam": "Gnome Tanah Subur",
+    "tipe": "Gnome",
+    "asal": "Tanah Subur"
+  },
+  {
+    "nama_khodam": "Seraph Cahaya Malam",
+    "tipe": "Seraph",
+    "asal": "Malam"
+  },
+  {
+    "nama_khodam": "Kraken Air Samudra Pasifik",
+    "tipe": "Kraken",
+    "asal": "Samudra Pasifik"
+  },
+  {
+    "nama_khodam": "Sylph Udara Angin Kencang",
+    "tipe": "Sylph",
+    "asal": "Udara"
+  },
+  {
+    "nama_khodam": "Gnome Tanah Padat",
+    "tipe": "Gnome",
+    "asal": "Tanah"
+  },
+  {
+    "nama_khodam": "Salamander Api Letusan",
+    "tipe": "Salamander",
+    "asal": "Letusan"
+  },
+  {
+    "nama_khodam": "Undine Air Hujan Tropis",
+    "tipe": "Undine",
+    "asal": "Hujan Tropis"
+  },
+  {
+    "nama_khodam": "Salamander Api Kemarahan",
+    "tipe": "Salamander",
+    "asal": "Api"
+  },
+  {
+    "nama_khodam": "Sylph Udara Angin Musim Panas",
+    "tipe": "Sylph",
+    "asal": "Udara"
+  },
+  {
+    "nama_khodam": "Gnome Tanah Pertanian",
+    "tipe": "Gnome",
+    "asal": "Pertanian"
+  }
+]
