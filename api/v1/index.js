@@ -3,6 +3,20 @@ const router = express.Router();
 const fs = require("fs");
 const path = require("path");
 
+// Define the path to khodamNames.json
+const khodamNamesPath = path.join(__dirname, "../../khodamNames.json");
+
+// Function to read and parse the khodamNames.json
+function readKhodamNames() {
+  try {
+    const data = fs.readFileSync(khodamNamesPath, "utf-8");
+    return JSON.parse(data);
+  } catch (err) {
+    console.error("Error reading khodamNames.json:", err);
+    return { names: [] }; // Return default empty structure if there's an error
+  }
+}
+
 // Load monsters data
 let monsters = [];
 fs.readFile(
