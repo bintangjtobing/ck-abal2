@@ -9,10 +9,9 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.static(path.join(__dirname, "public")));
 
+// Load monsters data
 let monsters = [];
-
-// Load monster names from monsters.json
-fs.readFile("monsters.json", "utf-8", (err, data) => {
+fs.readFile(path.join(__dirname, "monsters.json"), "utf-8", (err, data) => {
   if (err) {
     console.error("Error reading monsters.json:", err);
     return;
@@ -21,6 +20,7 @@ fs.readFile("monsters.json", "utf-8", (err, data) => {
   console.log("Loaded monster names:", monsters);
 });
 
+// API endpoint for generating khodam name
 app.post("/generate", (req, res) => {
   try {
     const name = req.body.name;
@@ -28,7 +28,6 @@ app.post("/generate", (req, res) => {
 
     const data = JSON.parse(fs.readFileSync("khodamNames.json", "utf-8"));
 
-    // Ensure data.names is an array
     if (!Array.isArray(data.names)) {
       data.names = [];
     }
@@ -50,29 +49,27 @@ app.post("/generate", (req, res) => {
   }
 });
 
-// New API endpoint
-app.get("/api/v1", (req, res) => {
-  try {
-    const name = req.query.name;
-    if (!name) {
-      return res.status(400).send("Parameter 'name' is required");
-    }
+// API endpoint for /api/v1
+app.use("/api/v1", require("./api/v1/index"));
 
-    const khodamName = generateUniqueKhodamName(name);
-    res.json({
-      khodamName: khodamName,
-    });
-  } catch (error) {
-    console.error("Error:", error);
-    res.status(500).send("Internal Server Error");
-  }
-});
+// Serve the static index.html file
 app.get("/", (req, res) => {
   res.sendFile(path.join(__dirname, "public", "index.html"));
 });
+
+// Function to generate unique Khodam name
 function generateUniqueKhodamName(name) {
+  if (monsters.length === 0) {
+    throw new Error("Monsters data is empty");
+  }
+
   const randomIndex = Math.floor(Math.random() * monsters.length);
   const monster = monsters[randomIndex];
+
+  if (!monster || !monster.nama_khodam) {
+    throw new Error("Invalid monster data");
+  }
+
   return {
     nama: `${name}-${monster.nama_khodam}`,
     tipe: monster.tipe_khodam,
