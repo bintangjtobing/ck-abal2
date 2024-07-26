@@ -39,6 +39,34 @@ Aplikasi web untuk mencocokkan nama pengguna dengan nama khodam yang unik. Mengg
 
    Aplikasi akan berjalan di `http://localhost:3000`.
 
+### Menggunakan API
+Aplikasi ini menyediakan API untuk mendapatkan nama khodam secara langsung.
+
+## Endpoint:
+```
+GET /api/v1
+```
+
+## Query Parameters:
+name: Nama pengguna yang ingin dicocokkan.
+Contoh Permintaan:
+```
+curl "http://localhost:3000/api/v1?name=YourName"
+```
+## Contoh Respons:
+```
+{
+  "khodamName": {
+    "nama": "YourName-Naga Api Gunung Berapi",
+    "tipe": "Naga",
+    "asal": "Gunung Merapi"
+  },
+  "nama": "YourName-Naga Api Gunung Berapi",
+  "tipe": "Naga",
+  "asal": "Gunung Merapi"
+}
+```
+
 ### Deploy ke Heroku
 
 1. **Instal Heroku CLI:**
