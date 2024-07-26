@@ -1,3 +1,8 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
 body {
   font-family: 'Raleway', sans-serif;
   background-image: url('https://res.cloudinary.com/vapochino-indonesia/image/upload/v1722007376/4_unbnvy.webp');
@@ -10,6 +15,11 @@ body {
   align-items: center;
   justify-content: center;
   transition: background-color 0.5s ease;
+  flex-direction: column;
+}
+
+.container {
+  flex: 1;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -68,8 +78,9 @@ body {
   height: 1rem;
   margin-right: 0.5rem;
 }
+
 footer {
-  position: absolute;
+  position: relative;
   bottom: 0;
   width: 100%;
   text-align: center;
