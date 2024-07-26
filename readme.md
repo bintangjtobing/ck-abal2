@@ -1,6 +1,8 @@
 # CKhodam Abal2
 Aplikasi web untuk mencocokkan nama pengguna dengan nama khodam yang unik. Menggunakan Express.js untuk backend dan Bootstrap untuk frontend.
 
+![Screenshot](image.png)
+
 ## Fitur
 - Memeriksa nama pengguna dan menghasilkan nama khodam unik.
 - Menggunakan desain responsif dan tema gelap.
