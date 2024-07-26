@@ -5,11 +5,14 @@ const path = require("path");
 const app = express();
 const PORT = 3000;
 
+// Use in-memory store for khodamNames
+let khodamNames = { names: [] };
+
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.static(path.join(__dirname, "public")));
 
-// Load monsters data
+// Load monster data
 let monsters = [];
 fs.readFile(path.join(__dirname, "monsters.json"), "utf-8", (err, data) => {
   if (err) {
@@ -17,30 +20,28 @@ fs.readFile(path.join(__dirname, "monsters.json"), "utf-8", (err, data) => {
     return;
   }
   monsters = JSON.parse(data);
-  console.log("Loaded monster names:", monsters);
 });
 
-// API endpoint for generating khodam name
+// Endpoint to generate a new khodam name
 app.post("/generate", (req, res) => {
   try {
     const name = req.body.name;
     const khodamName = generateUniqueKhodamName(name);
 
-    const data = JSON.parse(fs.readFileSync("khodamNames.json", "utf-8"));
-
-    if (!Array.isArray(data.names)) {
-      data.names = [];
+    // Ensure khodamNames.names is an array
+    if (!Array.isArray(khodamNames.names)) {
+      khodamNames.names = [];
     }
 
-    const isDuplicate = data.names.some(
+    const isDuplicate = khodamNames.names.some(
       (khodam) => khodam.nama.toLowerCase() === khodamName.nama.toLowerCase()
     );
 
     if (isDuplicate) {
       res.status(409).send("Nama Khodam sudah ada, silakan coba lagi.");
     } else {
-      data.names.push(khodamName);
-      fs.writeFileSync("khodamNames.json", JSON.stringify(data, null, 2));
+      khodamNames.names.push(khodamName);
+      // No need to write to file, just update in-memory store
       res.json({ khodamName: khodamName });
     }
   } catch (error) {
@@ -49,15 +50,30 @@ app.post("/generate", (req, res) => {
   }
 });
 
-// API endpoint for /api/v1
-app.use("/api/v1", require("./api/v1/index"));
+// New API endpoint
+app.get("/api/v1", (req, res) => {
+  try {
+    const name = req.query.name;
+    if (!name) {
+      return res.status(400).send("Parameter 'name' is required");
+    }
 
-// Serve the static index.html file
+    const khodamName = generateUniqueKhodamName(name);
+    res.json({
+      khodamName: khodamName,
+    });
+  } catch (error) {
+    console.error("Error:", error);
+    res.status(500).send("Internal Server Error");
+  }
+});
+
+// Serve the HTML file
 app.get("/", (req, res) => {
   res.sendFile(path.join(__dirname, "public", "index.html"));
 });
 
-// Function to generate unique Khodam name
+// Function to generate a unique Khodam name
 function generateUniqueKhodamName(name) {
   if (monsters.length === 0) {
     throw new Error("Monsters data is empty");
