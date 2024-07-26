@@ -25,16 +25,25 @@ app.post("/generate", (req, res) => {
     const name = req.body.name;
     const khodamName = generateUniqueKhodamName(name);
 
-    const data = JSON.parse(fs.readFileSync("khodamNames.json", "utf-8"));
+    // Read and parse the khodamNames.json file
+    let data;
+    try {
+      data = JSON.parse(fs.readFileSync("khodamNames.json", "utf-8"));
+    } catch (e) {
+      data = { names: [] }; // Initialize with empty array if file read fails
+    }
 
     // Ensure data.names is an array
     if (!Array.isArray(data.names)) {
       data.names = [];
     }
 
-    const isDuplicate = data.names.some(
-      (khodam) => khodam.nama.toLowerCase() === khodamName.nama.toLowerCase()
-    );
+    console.log("Checking for duplicates:", data.names);
+
+    // Check for duplicate khodam names
+    const isDuplicate = data.names.some((khodam) => {
+      return khodam.nama.toLowerCase() === khodamName.nama.toLowerCase();
+    });
 
     if (isDuplicate) {
       res.status(409).send("Nama Khodam sudah ada, silakan coba lagi.");
@@ -50,38 +59,9 @@ app.post("/generate", (req, res) => {
 });
 
 function generateUniqueKhodamName(name) {
-  const matrixSize = 6;
-  const usedIndices = new Set();
-  let khodamName;
-
-  // Function to generate a unique random index using custom logic
-  function generateRandomIndex() {
-    while (true) {
-      // 1. Hitung jumlah karakter
-      const charCount = name.length;
-
-      // 2. Pembagian dengan 1,75
-      const dividedValue = charCount / 1.75;
-
-      // 3. Substitusi: menghasilkan angka acak dari nilai dibagi
-      const randomValue = Math.floor(dividedValue);
-
-      // 4. Perkalian dengan 2
-      const multipliedValue = randomValue * 2;
-
-      // 5. Matriks 6 dan pangkat 2
-      const index = Math.pow(multipliedValue % matrixSize, 2) % monsters.length;
-
-      if (!usedIndices.has(index)) {
-        usedIndices.add(index);
-        return index;
-      }
-    }
-  }
-
-  const randomIndex = generateRandomIndex();
+  const randomIndex = Math.floor(Math.random() * monsters.length); // Choose a random index from 0 to monsters.length - 1
   const monster = monsters[randomIndex];
-  khodamName = {
+  const khodamName = {
     nama: `${name}-${monster.nama_khodam}`,
     tipe: monster.tipe_khodam,
     asal: monster.asal,

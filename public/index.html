@@ -93,8 +93,10 @@
               $("#loading").hide();
               $("#result").html(
                 `<div class="alert alert-success">
-                  Nama Khodam Anda adalah<br>
-                  <h3><i class="fa-solid fa-fire"></i><strong>${data.khodamName}</strong><i class="fa-solid fa-fire"></i></h3>
+                  Khodam Anda adalah<br>
+                  <h3><i class="fa-solid fa-fire"></i><strong>${data.khodamName.nama}</strong><i class="fa-solid fa-fire"></i></h3>
+                  <p style="margin-bottom:0;">Tipe Khodam: <strong>${data.khodamName.tipe}</strong></p>
+                  <p>Asal Tempat: <strong>${data.khodamName.asal}</strong></p>
                 </div>`
               );
               $("#name").val('');
