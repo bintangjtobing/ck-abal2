@@ -1,6 +1,7 @@
 const express = require("express");
 const bodyParser = require("body-parser");
 const fs = require("fs");
+const path = require("path");
 const app = express();
 const PORT = 3000;
 
@@ -66,7 +67,9 @@ app.get("/api/v1", (req, res) => {
     res.status(500).send("Internal Server Error");
   }
 });
-
+app.get("/", (req, res) => {
+  res.sendFile(path.join(__dirname, "public", "index.html"));
+});
 function generateUniqueKhodamName(name) {
   const randomIndex = Math.floor(Math.random() * monsters.length);
   const monster = monsters[randomIndex];
