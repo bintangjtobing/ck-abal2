@@ -25,25 +25,16 @@ app.post("/generate", (req, res) => {
     const name = req.body.name;
     const khodamName = generateUniqueKhodamName(name);
 
-    // Read and parse the khodamNames.json file
-    let data;
-    try {
-      data = JSON.parse(fs.readFileSync("khodamNames.json", "utf-8"));
-    } catch (e) {
-      data = { names: [] }; // Initialize with empty array if file read fails
-    }
+    const data = JSON.parse(fs.readFileSync("khodamNames.json", "utf-8"));
 
     // Ensure data.names is an array
     if (!Array.isArray(data.names)) {
       data.names = [];
     }
 
-    console.log("Checking for duplicates:", data.names);
-
-    // Check for duplicate khodam names
-    const isDuplicate = data.names.some((khodam) => {
-      return khodam.nama.toLowerCase() === khodamName.nama.toLowerCase();
-    });
+    const isDuplicate = data.names.some(
+      (khodam) => khodam.nama.toLowerCase() === khodamName.nama.toLowerCase()
+    );
 
     if (isDuplicate) {
       res.status(409).send("Nama Khodam sudah ada, silakan coba lagi.");
@@ -58,16 +49,32 @@ app.post("/generate", (req, res) => {
   }
 });
 
+// New API endpoint
+app.get("/api/v1", (req, res) => {
+  try {
+    const name = req.query.name;
+    if (!name) {
+      return res.status(400).send("Parameter 'name' is required");
+    }
+
+    const khodamName = generateUniqueKhodamName(name);
+    res.json({
+      khodamName: khodamName,
+    });
+  } catch (error) {
+    console.error("Error:", error);
+    res.status(500).send("Internal Server Error");
+  }
+});
+
 function generateUniqueKhodamName(name) {
-  const randomIndex = Math.floor(Math.random() * monsters.length); // Choose a random index from 0 to monsters.length - 1
+  const randomIndex = Math.floor(Math.random() * monsters.length);
   const monster = monsters[randomIndex];
-  const khodamName = {
+  return {
     nama: `${name}-${monster.nama_khodam}`,
     tipe: monster.tipe_khodam,
     asal: monster.asal,
   };
-
-  return khodamName;
 }
 
 app.listen(PORT, () => {
